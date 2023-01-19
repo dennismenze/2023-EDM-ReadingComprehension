@@ -1,0 +1,630 @@
+Perspektiven zu ethischen Fragen der Lernanalyse
+
+Die veröffentlichte Literatur zu ethischen Erwägungen im Zusammenhang mit Learning Analytics konzentriert sich in der Regel auf Themen wie die historische Entwicklung der Forschungsethik in der Internetforschung, den Nutzen von Learning Analytics für eine Reihe von Interessengruppen und Fragen des Datenschutzes, der informierten Zustimmung und des Zugangs zu Datensätzen. Da sich viele dieser Themen überschneiden, ist die folgende Literaturübersicht so strukturiert, dass sie systematisch eine Reihe verschiedener ethischer Fragen zu Learning Analytics in der Hochschulbildung beleuchtet. Wir versuchen auch, eine Reihe von Themen hervorzuheben, die entweder noch nicht oder nur unzureichend im Kontext von Learning Analytics berücksichtigt wurden.
+Eine Arbeitsdefinition von Learning Analytics
+
+Oblinger (2012) unterscheidet zwischen Learning Analytics und Ansätzen wie Business Intelligence und Academic Analytics und definiert Learning Analytics als Ausrichtung auf "Studierende und ihr Lernverhalten, wobei Daten aus Kursmanagement- und Studenteninformationssystemen gesammelt werden, um den Lernerfolg zu verbessern" (S. 11). In diesem Artikel definieren wir Learning Analytics als die Sammlung, Analyse, Nutzung und angemessene Bereitstellung von durch Studierende generierten, verwertbaren Daten mit dem Ziel, angemessene kognitive, administrative und effektive Unterstützung für Lernende zu schaffen.
+Ein Überblick über den Zweck und die Erhebung von Bildungsdaten
+
+Ethische Herausforderungen und Probleme bei der Nutzung von Bildungsdaten können sinnvollerweise im Kontext der Geschichte der Internet-Forschungsethik und vor dem Hintergrund der Entwicklung der Forschungsethik nach Fällen wie dem Tuskegee-Experiment (Lombardo & Dorr, 2006), der Veröffentlichung des Nürnberger Kodex im Jahr 1947 und der Deklaration von Helsinki des Weltärztebundes aus dem Jahr 1964 betrachtet werden. Überall wurde versucht, ein Gleichgewicht zwischen "individuellem Schaden und wissenschaftlichem Erkenntnisgewinn" zu finden (Buchanan, 2011, S. 84). Das Aufkommen des Internets eröffnete neue Bereiche für Bedenken, die oft außerhalb der traditionellen Grenzen und Richtlinien für ethische Forschung liegen. Anfang der 1990er-Jahre wurde die Internet-Forschungsethik ins Leben gerufen, um Leitlinien für die komplexe Durchführung von Forschungen zu Internet-Populationen und -Daten bereitzustellen. Im Jahr 2000 wurde dann von der Association of Internet Researchers die Ethik-Arbeitsgruppe gegründet.
+
+
+Hochschuleinrichtungen haben schon immer in gewissem Umfang Daten analysiert, aber die schiere Menge an Daten nimmt mit der Rechenkapazität der Einrichtungen, der Verbreitung von Visualisierungstools und der steigenden Nachfrage nach der Nutzung von Daten weiter zu. Infolgedessen stellen sich immer mehr ethische Fragen im Zusammenhang mit der Erhebung und Analyse von Bildungsdaten, zu denen ein besseres Verständnis und mehr Transparenz in Bezug auf die "Zwecke, für die Daten erhoben werden, und den Umgang mit sensiblen Daten" gehören (Oblinger, 2012, S. 12). Rechtliche Rahmenwerke wie der U.S. Family Educational Rights and Privacy Act konzentrieren sich weitgehend darauf, wie Informationen außerhalb einer Einrichtung verwendet werden, und nicht auf ihre Verwendung innerhalb der Einrichtung, und Oblinger (2012) argumentiert, dass es von entscheidender Bedeutung ist, dass Einrichtungen die Studierenden darüber informieren, "welche Informationen über sie zu welchen Zwecken, von wem und zu welchem Nutzen verwendet werden" (S. 12).
+
+
+Subotzky und Prinsloo (2011) weisen darauf hin, dass ein gegenseitiger Austausch von geeignetem und verwertbarem Wissen zwischen Studierenden und der anbietenden Einrichtung erforderlich ist. Ein solches Wissen über die Studierenden kann das Angebot einer zeitnahen und maßgeschneiderten Unterstützung erleichtern, die es den Studierenden ermöglicht, fundiertere Entscheidungen zu treffen und entsprechend zu handeln.
+Der pädagogische Zweck von Learning Analytics
+
+In krassem Gegensatz zu den Fortschritten bei der Datennutzung in anderen Bereichen (z. B. Patienteninformationen im Gesundheitswesen) ist die Hochschulbildung "traditionell ineffizient bei der Datennutzung und arbeitet oft mit erheblichen Verzögerungen bei der Analyse von unmittelbar sichtbaren Daten und Feedback" (Long & Siemens, 2011, S. 32). Trotz der wahrscheinlichen Vorteile des Einsatzes von Learning Analytics zum Messen, Sammeln, Analysieren und Berichten von "Daten über Lernende und ihre Kontexte, um das Lernen und die Umgebungen, in denen es stattfindet, zu verstehen und zu optimieren" (Long & Siemens, 2011, S. 34), gibt es nach wie vor eine Reihe von ethischen Herausforderungen und Problemen, die die Optimierung in der Hochschulbildung betreffen.
+
+Obwohl Bildungsdaten einer Reihe von Zwecken dienen (z. B. für die Auswertung von Studienerfolg und Studienförderung), betont Booth (2012), dass Learning Analytics auch das Potenzial hat, dem Lernen zu dienen. Ein Learning-Analytics-Ansatz kann Bildung sowohl persönlich als auch inhaltlich relevant machen und es den Studierenden ermöglichen, ihre eigene Identität innerhalb eines größeren Systems zu bewahren. Eine optimale Nutzung der von den Studierenden generierten Daten kann dazu führen, dass die Einrichtungen ein besseres Verständnis der Lebenswelt und der Entscheidungen der Studierenden erhalten, so dass sowohl die Einrichtung als auch die Studierenden bessere und sachkundigere Entscheidungen treffen und schneller auf umsetzbare und erkannte Bedürfnisse reagieren können (Oblinger, 2012).
+
+
+Mehrere Autoren (Bienkowski, Feng, & Means, 2012; Campbell, DeBlois, & Oblinger, 2007) verweisen auf die Verpflichtung von Institutionen, auf der Grundlage der durch Analysen gewonnenen Erkenntnisse zu handeln. Man kann durchaus sagen, dass es auch Fälle geben kann, in denen Institutionen beschließen, nicht auf Daten zu reagieren. Man könnte argumentieren, dass die Vorteile, die sich aus der Reaktion auf Studentenkohorten mit bestimmten gemeinsamen Merkmalen oder Verhaltensweisen ergeben, von geringem Nutzen oder weniger vorteilhaft sind als gleichwertige oder geringere Investitionen in andere Ressourcen. Die jüngste Umfrage des EDUCAUSE Center for Applied Research (Bichsel, 2012, S. 13) bestätigt, dass die größte Sorge im Zusammenhang mit dem zunehmenden Einsatz von Learning Analytics, die von einer Reihe von Mitgliedern geäußert wurde, die finanziellen Kosten der Implementierung sind, und nicht Fragen des Datenschutzes oder des Datenmissbrauchs.
+
+
+
+Die Entscheidung, zu handeln oder nicht zu handeln, sowie die Kosten und ethischen Erwägungen in beiden Fällen müssen im spezifischen Kontext der Anwendung berücksichtigt werden. Nicht alle gesammelten Daten werden notwendigerweise eine Reaktion seitens der Einrichtung nach sich ziehen oder auslösen. Dies macht deutlich, dass zwar nicht alle Daten verwertbar sind, sie aber das Verständnis der Einrichtungen für den Erfolg und die Bindung von Studierenden verbessern können.
+
+Irgendwann müssen alle Einrichtungen, die das Lernen von Studierenden unterstützen, entscheiden, was ihr Hauptziel ist: die Zahl der Studierenden, die einen Abschluss erreichen, zu maximieren, die Abschlussquoten von Studierenden zu verbessern, die in irgendeiner Weise als benachteiligt gelten, oder vielleicht einfach nur die Gewinne zu maximieren. Die Art und Weise, wie eine Einrichtung Learning Analytics einsetzt, hängt davon ab, welches dieser Ziele sie als ihr Hauptanliegen ansieht. Darüber hinaus, und das ist vielleicht noch wichtiger für die Fähigkeit der Einrichtung, positive Beziehungen zu ihren Studierenden zu pflegen, wird die Art und Weise, wie die Studierenden den Einsatz einer solchen Überwachung wahrnehmen, auch von ihrem eigenen Verständnis des Zwecks und der Motivation der Einrichtung abhängen. Der Umgang mit dem Verständnis und der Wahrnehmung der Studierenden ist daher eine wichtige Priorität für jede Einrichtung, die Lernanalysen in ihre Standardabläufe einbinden möchte.
+
+
+
+Bei der Betonung der Rolle von Daten und Analysen für die Auswertung des Studienerfolgs, des Verbleibs und des Durchsatzes ist es wichtig, sich daran zu erinnern, dass Learning Analytics ein enormes Potenzial hat, in erster Linie dem Lernen zu dienen (Kruse & Pongsajapan, 2012). Wenn Institutionen die Analyse und Nutzung von Daten in erster Linie zu Berichtszwecken betonen, besteht die Gefahr, dass Studierende als passive Datenproduzenten betrachtet werden, was dazu führt, dass Learning Analytics als "aufdringliche Beratung" eingesetzt wird (Kruse & Pongsajapan, 2012, S. 2). Wenn die Absicht besteht, die von den Studierenden erhobenen Daten für andere Zwecke zu nutzen, ist die Einrichtung dafür verantwortlich, dies bekannt zu machen.
+
+Macht und Überwachung in der Lernanalytik
+
+Aufgrund der inhärent ungleichen Machtverhältnisse bei der Nutzung von Daten, die von Studierenden auf ihrem Bildungsweg generiert werden, schlagen wir einen gesellschaftskritischen Rahmen vor, der es uns ermöglicht, eine Reihe von ethischen Fragen wie Sichtbarkeit, Aggregation und Überwachung zu behandeln. Obwohl die Online-Überwachung und die Möglichkeiten der Kommerzialisierung von Online-Daten selbst zunehmend kritisch hinterfragt werden (z. B. Andrejevic, 2011; Livingstone, 2005), kann die Leichtigkeit, mit der wir heute Daten auf sozialen Netzwerken teilen, auf eine zunehmende Sorglosigkeit oder einen weniger vorsichtigen Umgang mit der Privatsphäre hindeuten (z. B. Adams & Van Manen, 2006). Dawson (2006) fand beispielsweise heraus, dass Studierende ihr Online-Verhalten (z. B. die Bandbreite der diskutierten Themen und den Schreibstil) änderten, wenn sie sich der institutionellen Überwachung bewusst waren. Albrechtslund (2008, Abs. 46) untersucht den Begriff der partizipativen Überwachung und konzentriert sich dabei auf die Überwachung als "gegenseitige, horizontale Praxis" sowie auf die sozialen und "spielerischen Aspekte" der Überwachung (siehe auch Knox, 2010b; Lyon, 2007; Varvel, Montague, & Estabrook, 2007). Knox (2010b) liefert eine sehr nützliche Typologie der Überwachung, die unter anderem den Unterschied zwischen Überwachung und Beobachtung, Automatisierung und Sichtbarkeit sowie verschiedene Aspekte der rhizomatischen und prognostischen Überwachung hervorhebt. Die rhizomatische Überwachung unterstreicht den dynamischen, multidirektionalen Fluss des Überwachungsakts in einem Synoptikum, in dem die vielen die wenigen beobachten können. Das Synoptikum und das Panoptikum funktionieren gleichzeitig und interagieren (Knox, 2010b).
+
+
+Die zunehmende Überwachung in Lehr- und Lernumgebungen wirkt sich auch auf die Arbeit und die Identität von Tutoren, Lehrkräften und Administratoren aus, wodurch bestehende Machtverhältnisse durchbrochen und neue Rollen und Verantwortlichkeiten eingeführt werden (z. B. Knox, 2010a).
+
+In den folgenden Abschnitten wird eine Reihe von ethischen Fragen erörtert, die in drei großen, sich überschneidenden Kategorien unterteilt sind:
+
+    Ort und Auswertung von Daten
+    Einwilligungserklärung, Datenschutz und De-Identifizierung von Daten
+    Die Verwaltung, Klassifizierung und Speicherung von Daten
+
+1. Ort und Auswertung von Daten
+
+Inzwischen ist es so, dass "ein erheblicher Teil der Aktivitäten der Lernenden außerhalb [der Einrichtung] stattfindet. ... Aufzeichnungen sind über eine Vielzahl verschiedener Orte mit unterschiedlichen Standards, Eigentümern und Zugriffsebenen verteilt" (Ferguson, 2012, Abs. 6). Dies weist auf die Schwierigkeiten hin, die mit dem Versuch verbunden sind, eine einzige Sammlung von Leitlinien für die ethische Nutzung an einer solchen Vielzahl von Standorten durchzusetzen, von denen jeder beispielsweise seine eigenen Datenschutzstandards hat.
+Darüber hinaus stellt sich die Frage nach der Art und Interpretation digitaler Daten als vollständig repräsentativ für einen bestimmten Studierenden (eine Kohorte). Beim Umgang mit fehlenden und unvollständigen Daten zur Nutzung des Lernmanagementsystems (LMS) der Einrichtung (Whitmer, Fernandes, & Allen, 2012) können Korrelationen zwischen verschiedenen Variablen vermutet werden. Solche Annahmen können durch die eigene Perspektive des Analysten beeinflusst werden und zu unbewusst verzerrten Interpretationen führen. Der distributive Charakter von Netzwerken und die Unmöglichkeit, Aktivitäten außerhalb der internen Systeme einer Institution zu verfolgen, beeinträchtigen ebenfalls die Fähigkeit, ein ganzheitliches Bild der Lebenswelt von Studierenden zu erhalten. Wir verfügen nicht nur nicht über alle Daten, sondern viele der Daten, die wir haben, erfordern "eine umfassende Filterung, um die 'Datenflut' in der LMS-Protokolldatei in pädagogisch relevante Informationen umzuwandeln" (Whitmer et al., 2012, Abs. 22).
+
+
+Es gibt auch Auswirkungen von ineffektiven und fehlgeleiteten Interventionen, die aus fehlerhaften Lerndiagnosen resultieren und zu "Ineffizienz, Unmut und Demotivierung" führen können (Kruse & Pongsajapan, 2012, S. 3). Darüber hinaus kann die systematische Modellierung von Verhaltensweisen, die notwendigerweise Annahmen (z. B. über die Dauerhaftigkeit der Lernkontexte von Studierenden) beinhaltet, das Verhalten von Institutionen gegenüber ihren Studierenden und deren Reaktion auf sie bestimmen und einschränken, und zwar sowohl als Einzelpersonen als auch als Mitglieder verschiedener Kohorten. Ess, Buchanan und Markham (2012) bestätigen, dass es notwendig ist, das Individuum innerhalb eines möglicherweise sehr großen und entpersonalisierten Datensatzes zu berücksichtigen, selbst wenn dieses Individuum nicht erkennbar ist. Maßnahmen, die von einer Kohorte beeinflusst werden, in der ein Student nur ein Teil ist, können sich dennoch nachteilig auf die Möglichkeiten dieses Studenten auswirken. In seinem kürzlich erschienenen Artikel warnt Harvey (2012, Abs. 9), dass "dieser Prozess eine Verdinglichung von Identitäten zur Folge hat, bei der die Unterstützung eher durch Assoziation als durch individuelle Bedürfnisse zugewiesen wird".
+
+
+
+Angesichts des breiten Spektrums an Informationen, die in solche Modelle einfließen können, besteht die bekannte Gefahr einer potenziellen Voreingenommenheit und Übervereinfachung (Bienkowski et al., 2012; Campbell et al., 2007; May, 2011). Wenn wir dies akzeptieren, sollten wir dann auch das Recht der Studierenden in Frage stellen, ein Individuum zu bleiben, und fragen, ob es für Studierende angemessen ist, sich der ihnen angehefteten Etiketten bewusst zu sein? Gibt es bestimmte Etiketten, die verboten werden sollten? Da sich die Studierenden der Auswirkungen einer solchen Kennzeichnung immer stärker bewusst werden, kann die Möglichkeit, sich dagegen zu entscheiden oder bestimmte Merkmale aktiv falsch darzustellen, um eine Kennzeichnung zu vermeiden, die Aussagekraft des verbleibenden Datensatzes beeinträchtigen. Viele Institutionen setzen Lernanalysen ein, um Studierende zu Studienentscheidungen zu bewegen oder Unterstützungsstrategien anzuwenden, von denen angenommen wird, dass sie ein größeres Erfolgspotenzial bieten (Parry, 2012), aber welche Verpflichtung besteht für den Studierenden, entweder explizite Beratung anzunehmen oder Unterstützung zu suchen, die möglicherweise im Widerspruch zu seinen eigenen Präferenzen oder Studienzielen steht (Ferguson, 2012)? Es besteht die Gefahr einer "Rückkehr zum Behaviorismus als Lerntheorie, wenn wir die Analytik auf Verhaltensdaten beschränken" (Long & Siemens, 2011, S. 36-38).
+
+2. Einwilligungserklärung, Datenschutz und De-Identifizierung von Daten
+
+Obwohl sich die Studierenden zunehmend der wachsenden Verbreitung von Data Mining zur Überwachung und Beeinflussung des Kaufverhaltens bewusst sind, ist nicht klar, ob sie sich in gleichem Maße des Ausmaßes bewusst sind, in dem dies in einem Bildungsumfeld geschieht. Epling, Timmons und Wharrad (2003) erörtern Fragen zur Akzeptanz der Überwachung von Studierenden und diskutieren darüber, wer die wahren Nutznießer sind. Campbell et al. (2007) weisen explizit auf die Verwendung von Daten für nichtpädagogische Zwecke hin und verweisen dabei auf die Verwendung von Studierendendaten z. B. für die Mittelbeschaffung. Wel und Royakkers (2004) erörtern die ethischen Aspekte der Überwachung und Analyse von Studierendendaten ohne deren ausdrückliches Wissen. Interessanterweise erörtern Land und Bayne (2005) die breite Akzeptanz der Überwachung von Studierenden und zitieren Studien, in denen sie feststellen, dass das Konzept der Aufzeichnung von Bildungsaktivitäten für Studierende durchaus akzeptabel zu sein scheint. Der Begriff der Online-Privatsphäre als soziale Norm wird zunehmend in Frage gestellt (Arrington, 2010; Coll, Glassey, & Balleys, 2011).
+
+
+In Anbetracht der allgemeinen Besorgnis über die Überwachung und ihre Auswirkungen auf die Privatsphäre von Studierenden und Lehrkräften weist Petersen (2012) auf die Bedeutung der De-Identifizierung von Daten hin, bevor diese für die institutionelle Nutzung zur Verfügung gestellt werden, einschließlich der Möglichkeit, "eindeutige Identifikatoren für Personen im Datensatz zu behalten, ohne die tatsächliche Identität der Personen zu identifizieren" (S. 48). Dieser letzte Punkt bezieht sich auf die Notwendigkeit, Interventionen für Gruppen von Studierenden auf der Grundlage ihrer Merkmale oder Verhaltensweisen anzubieten und gleichzeitig ihre Anonymität innerhalb des größeren Datensatzes zu gewährleisten.
+
+3. Die Klassifizierung und Verwaltung von Daten
+
+Petersen (2012) schlägt einen ganzheitlichen Ansatz für eine transparente Datenverwaltung vor, einschließlich der Notwendigkeit einer "umfassenden Datenverwaltungsstruktur, die sich mit allen Arten von Daten befasst, die in verschiedenen Situationen verwendet werden", und der Notwendigkeit, "ein Datenklassifizierungssystem zu schaffen, das die Daten in Kategorien einteilt, die das erforderliche Schutzniveau bestimmen" (S. 46-47). Er schlägt vor, Datenverwalter zu ernennen, die Standards und Kontrollen überwachen und Richtlinien beispielsweise für den Datenzugriff festlegen, sowie Datenwächter, die die Einhaltung der Richtlinien und Verfahren sicherstellen, ohne die Befugnis zu haben, zu bestimmen, wer auf Datensätze zugreifen darf und wer nicht. Obwohl sich Petersens Bemerkungen speziell auf die allgemeine Datenverwaltung beziehen, könnte auch die Lernanalytik von einem solchen Ansatz profitieren.
+
+Im Hinblick auf die Bedeutung von Vertrauen bei der Kontrolle und Überwachung (z. B. Adams & Van Manen, 2006; Knox, 2010a; Livingstone, 2005) stimmen wir zu, dass die Klassifizierung von Daten, wie von Petersen (2012) vorgeschlagen, ein wesentliches Element ist, um sicherzustellen, dass der angemessene Zugang zu verschiedenen Arten von Daten geregelt wird.
+
+Ein wesentlicher Aspekt bei der Betrachtung der ethischen Herausforderungen im Bereich Learning Analytics ist die Berücksichtigung der Auswirkungen der verwendeten Tools. Wagner und Ice (2012) untersuchen die Relevanz von Mustererkennung und Business-Intelligence-Techniken in der sich entwickelnden Learning-Analytics-Landschaft, die Spielraum für mehr Erfolg bieten, indem sie die Beteiligten anleiten, "den sprichwörtlich richtigen Ort und die richtige Zeit zu erkennen" (S. 34). Obwohl die Mustererkennung ein enormes Potenzial für die Bereitstellung maßgeschneiderter und zeitnaher Unterstützung für Studierende birgt, besteht, wie von Pariser (2011) hervorgehoben, die Gefahr, dass die Mustererkennung dazu führen kann, dass Individuen in vergangenen Entscheidungen gefangen bleiben. Pariser weist darauf hin, dass die Verwendung personalisierter Filter auf "Autopropaganda hindeutet, die uns mit unseren eigenen Ideen indoktriniert und unser Verlangen nach Dingen verstärkt, die uns vertraut sind", und dass "das Wissen, auf welche Art von Anreizen bestimmte Menschen reagieren, Ihnen die Macht gibt, sie auf individueller Basis zu manipulieren" (S. 121). Wie wir im späteren Abschnitt über ethische Erwägungen darlegen, spiegeln die von den Institutionen verwendeten Algorithmen unweigerlich die aktuellen Klischees und Vorurteile wider und halten diese aufrecht. Die dynamische Natur der studentischen Identität macht es erforderlich, dass wir angemessen darauf achten, dass die Studierenden außerhalb der auferlegten Algorithmen und Modelle handeln können.
+
+Studentische Identität als flüchtiges Konstrukt
+
+Obwohl die Klassifizierung von Daten die Grundlage für die Festlegung des Zugangs zu verschiedenen Datenkategorien sowie für die Bestimmung angemessener institutioneller Reaktionen auf verschiedene Arten von Kategorien durch eine Reihe von institutionellen Akteuren (einschließlich der Studierenden selbst) bildet, ist es von entscheidender Bedeutung, dass bei der Analyse von Daten im Rahmen von Learning Analytics die Zeitgebundenheit der erfassten Daten und die Tatsache berücksichtigt werden, dass die erfassten Daten uns nur einen Blick auf eine Person zu einem bestimmten Zeitpunkt und an einem bestimmten Ort ermöglichen. Obwohl die Kategorisierung von Daten notwendig ist, ist die Kategorisierung von Studierenden und Lehrkräften auf der Grundlage historischer Daten, zumindest derzeit, fehleranfällig und unvollständig. Die Einrichtungen sollten auch die Pluralität der studentischen Identität anerkennen. Sen (2006) schlägt vor, dass wir Identitäten anerkennen sollten als "robust plural, und dass die Bedeutung einer Identität die Bedeutung anderer nicht auslöschen muss" (S. 19). Studierende treffen als Akteure Entscheidungen - "explizit oder implizit - darüber, welche relative Bedeutung sie in einem bestimmten Kontext den divergierenden Loyalitäten und Prioritäten beimessen, die um den Vorrang konkurrieren können" (S. 19; siehe auch Brah, 1996).
+
+In Richtung eines ethischen Rahmens
+
+Obwohl die obige Literaturübersicht einen Überblick über eine Reihe von ethischen Fragen im Bereich Learning Analytics gegeben hat, wenden wir uns nun der Bereitstellung eines integrierten, gesellschaftskritischen ethischen Rahmens und von Prinzipien für Learning Analytics sowie der Diskussion einer Reihe von Überlegungen zu, die diesen Prinzipien folgen.
+
+Die Übersicht hat uns mit der folgenden Frage zurückgelassen: Wie können wir sowohl das Potenzial von Learning Analytics für das Lernen als auch die damit verbundenen ethischen Herausforderungen angehen? Ein Ansatz könnte die Formulierung von institutionellen Verhaltenskodizes sein. Bienkowski et al. (2012) zitieren beispielsweise Arbeiten zur Vorbereitung des U.S. Family Educational Rights and Privacy Act, in dem der Zugang zu Datensätzen (z. B. zu Forschungs-, Rechenschafts- oder institutionellen Verbesserungszwecken) gegenüber der Notwendigkeit der Wahrung der Privatsphäre der Studierenden abgegrenzt wird. In Australien haben Nelson und Creagh (2012) mit der Arbeit an einem Good Practice Guide für die Nutzung von Learning Analytics begonnen, in dem die Bedürfnisse der wichtigsten Interessengruppen und die Auswirkungen einer Reihe von vorgeschlagenen Rechten für jede von ihnen beschrieben werden. Die Durchführbarkeit der Umsetzung solcher Verhaltenskodizes in großem Maßstab und die Frage, wie diese die Nutzung aller Daten in einer Online-Umgebung regeln könnten, in der die Daten und ihre Anwendungen das Potenzial haben, sich zu vermehren und weiterzuentwickeln, sollte daher eine Priorität in der Debatte über Learning Analytics und ihre ethischen Implikationen sein. Land und Bayne (2005) schlagen vor, dass institutionelle Verhaltenskodizes die Einwilligungserklärung, den Zweck und das Ausmaß der Datenerfassung, die Transparenz der gespeicherten Daten, das Eigentum und die Grenzen der Datennutzung abdecken sollten.
+
+
+
+Petersen (2012, S. 48) schlägt vor, die Grundsätze der Fair Information Practice Principles der U.S. Federal Trade Commission zu befolgen, die folgende Elemente umfassen: die Einverständniserklärung, die Ermöglichung verschiedener Optionen in Bezug auf die Datennutzung, das Recht des Einzelnen, die Richtigkeit und Vollständigkeit der Informationen zu überprüfen, die Verhinderung des unbefugten Zugriffs, der Nutzung und der Offenlegung von Daten sowie Bestimmungen zur Durchsetzung und Entschädigung. Buchanan (2011) schlägt drei ethische Grundsätze vor, nämlich "Achtung der Person, Wohlwollen und Gerechtigkeit" (S. 84). Einzelpersonen sollten nicht nur als autonome Akteure betrachtet werden, sondern schutzbedürftige Personen mit verminderter oder eingeschränkter Autonomie (einschließlich Studierende) sollten vor Schaden und Risiken geschützt werden.
+
+Obwohl viele der oben genannten Empfehlungen nützliche Hinweise für Learning Analytics liefern, erfordert die Betrachtung von Learning Analytics als moralische Praxis, deren primärer Beitrag die Steigerung der Effektivität des Lernens ist, eine andere (aber nicht widersprüchliche) Sammlung von Prinzipien.
+Grundsätze für einen ethischen Rahmen für Learning Analytics
+
+Unser Ansatz geht davon aus, dass der Einsatz von Learning Analytics in einer Institution auf dem Verständnis des Umfangs, der Rolle und der Grenzen von Learning Analytics sowie auf einer Reihe von moralischen Überzeugungen basiert, die auf den jeweiligen regulatorischen und rechtlichen, kulturellen, geopolitischen und sozioökonomischen Kontexten basieren. Jede Sammlung von Leitlinien, die sich mit den ethischen Dilemmata und Herausforderungen der Lernanalytik befasst, wird zwangsläufig auch auf einer Reihe von erkenntnistheoretischen Annahmen beruhen. Daher wäre es nahezu unmöglich, eine Reihe allgemeingültiger Leitlinien zu entwickeln, die in jedem Kontext gleichermaßen anwendbar wären. Es sollte jedoch möglich sein, eine Reihe allgemeiner Grundsätze zu entwickeln, aus denen die Institutionen je nach ihrem Kontext ihre eigenen Leitlinien entwickeln können.
+
+Wir schlagen hier eine Reihe von Grundsätzen als Orientierungsrahmen für die Betrachtung der Lernanalytik als moralische Praxis vor.
+Grundsatz 1: Learning Analytics als moralische Praxis
+
+Als Antwort auf die zunehmenden analytischen Möglichkeiten, mit denen die heutige Institution der Hochschulbildung konfrontiert ist, sollte Learning Analytics viel mehr tun, als zu einer "datengesteuerten Universität" beizutragen oder zu einer Welt zu führen, in der wir "unter dem Schwert der Daten leben". Wir stimmen mit Biesta (2007) überein, dass
+
+evidenzbasierte Bildung ein technokratisches Modell zu begünstigen scheint, bei dem davon ausgegangen wird, dass die einzig relevanten Forschungsfragen die Effektivität von Bildungsmitteln und -techniken betreffen, wobei unter anderem vergessen wird, dass das, was als "effektiv" gilt, entscheidend von der Beurteilung dessen abhängt, was pädagogisch wünschenswert ist. (S. 5)
+
+Bildung kann und sollte nicht als "Intervention oder Behandlung" verstanden werden, "weil die Bildungspraxis nicht kausal und normativ ist und weil Mittel und Ziele in der Bildung in einem inneren Zusammenhang stehen" (Biesta, 2007, S. 20). Die Lernanalyse sollte sich nicht nur darauf konzentrieren, was effektiv ist, sondern auch darauf abzielen, relevante Anhaltspunkte zu liefern, um zu entscheiden, was angemessen und moralisch notwendig ist. Bildung ist in erster Linie eine moralische Praxis, nicht eine kausale. Daher sollte die Lernanalyse in erster Linie als moralische Praxis fungieren, die zum Verständnis und nicht zum Messen führt (Reeves, 2011).
+Grundsatz 2: Studierende als Agenten
+
+Im Gegensatz zur Betrachtung der Studierenden als Datenproduzenten und -quellen sollten Lernanalytiker die Studierenden als Mitwirkende und nicht als bloße Empfänger von Interventionen und Dienstleistungen betrachten (Buchanan, 2011; Kruse & Pongsajapan, 2012). Die Studierenden sollten nicht nur eine informierte Zustimmung zur Erhebung, Nutzung und Speicherung von Daten erteilen, sondern auch freiwillig an der Bereitstellung von Daten und dem Zugang zu Daten mitarbeiten, damit die Lernanalyse ihrem Lernen und ihrer Entwicklung dient und nicht nur der Effizienz institutioneller Profilerstellung und Interventionen (siehe auch Subotzky & Prinsloo, 2011). Kruse und Pongsajapan (2012) schlagen einen "studierendenzentrierten" im Gegensatz zu einem "interventionszentrierten" Ansatz für Learning Analytics vor. Demnach sollte der Student
+
+als Co-Interpret seiner eigenen Daten gesehen werden - und vielleicht sogar als Teilnehmer bei der Identifizierung und Erfassung dieser Daten. In diesem Szenario wird sich der Student seiner eigenen Handlungen im System bewusst und nutzt diese Daten, um über sein Verhalten nachzudenken und es möglicherweise zu ändern. (S. 4-5)
+
+Die Wertschätzung der Studierenden als Akteure, die Entscheidungen treffen und mit der Institution bei der Konstruktion ihrer (wenn auch nur vorübergehenden) Identität zusammenarbeiten, kann darüber hinaus ein nützliches (und wirkungsvolles) Gegenmittel gegen die Kommerzialisierung der Hochschulbildung (siehe z. B. Giroux, 2003) im Zusammenhang mit den Auswirkungen von ungleichen Machtverhältnissen, Kontrolle und Überwachung sein (Albrechtslund, 2008; Knox, 2010a, 2010b).
+Grundsatz 3: Studierendenidentität und Leistung sind zeitlich dynamische Konstrukte
+
+Ein wesentlicher Bestandteil der Lernanalyse ist der Begriff der Studierendenidentität. Es ist von entscheidender Bedeutung, die Identität der Studierenden als eine Kombination aus dauerhaften und dynamischen Attributen zu betrachten. Während der Immatrikulation befinden sich die Identitäten der Studierenden in einem ständigen Wandel und damit in einem "dritten Raum", in dem sich ihre Identitäten und Kompetenzen in einem permanenten Übergangszustand befinden (Prinsloo, Slade, & Galpin, 2012). Die ethischen Implikationen sind, dass die Lernanalyse eine Momentaufnahme eines Lernenden zu einem bestimmten Zeitpunkt und in einem bestimmten Kontext darstellt. Dies macht nicht nur Längsschnittdaten erforderlich (Reeves, 2011), sondern hat auch Auswirkungen auf die Speicherung und Dauerhaftigkeit der Daten. Mayer-Schönberger (2009, S. 12) warnt, dass das Vergessen eine "grundlegende menschliche Fähigkeit" ist. Studierende sollten die Möglichkeit haben, sich weiterzuentwickeln, sich anzupassen und aus vergangenen Erfahrungen zu lernen, ohne dass diese Erfahrungen aufgrund ihrer digitalen Natur zu einem dauerhaften Makel in ihrer Entwicklungsgeschichte werden. Studierendenprofile sollten nicht "eingeätzt werden wie eine Tätowierung in ... ihre digitale Haut" (Mayer-Schönberger, 2009, S. 14). Daten, die durch Learning Analytics gesammelt werden, sollten daher eine vereinbarte Lebensdauer und ein Verfallsdatum haben sowie Mechanismen, mit denen Studierende die Löschung von Daten nach vereinbarten Kriterien beantragen können.
+Grundsatz 4: Lernerfolg ist ein komplexes und multidimensionales Phänomen
+
+Obwohl einer der Vorteile von Learning Analytics darin besteht, zu einem besseren Verständnis der demografischen Merkmale und des Verhaltens der Studierenden beizutragen (Bichsel, 2012), ist es wichtig zu sehen, dass Studienerfolg das Ergebnis "meist nichtlinearer, multidimensionaler, voneinander abhängiger Interaktionen in verschiedenen Phasen im Verbund zwischen den Studierenden, der Institution und breiteren gesellschaftlichen Faktoren" ist (Prinsloo, 2012). Obwohl Learning Analytics enorme Möglichkeiten bieten, ein umfassenderes Verständnis des studentischen Lernens zu gewinnen, sind unsere Daten unvollständig (z. B. Booth, 2012; Mayer-Schönberger, 2009; Richardson, 2012a, 2012b) und "schmutzig" (Whitmer et al., 2012) und unsere Analysen anfällig für Fehlinterpretationen und Verzerrungen (Bienkowski et al., 2012; Campbell et al., 2007; May, 2011).
+Grundsatz 5: Transparenz
+
+Wichtig für Learning Analytics als moralische Praxis ist, dass die Hochschuleinrichtungen transparent machen, für welche Zwecke und unter welchen Bedingungen die Daten verwendet werden, wer Zugang zu den Daten hat und durch welche Maßnahmen die Identität des Einzelnen geschützt wird. Die Annahme, dass die Teilnahme an öffentlichen Online-Foren eine pauschale Erlaubnis für die Nutzung von Daten darstellt, sollte nicht akzeptiert werden (Buchanan, 2011). Hochschuleinrichtungen haben die Pflicht, die Teilnehmerdaten im institutionellen LMS zu schützen und die Studierenden über mögliche Risiken zu informieren, wenn Lehren und Lernen außerhalb der Grenzen der institutionellen Zuständigkeit stattfinden.
+Grundsatz 6: Hochschulen können es sich nicht leisten, Daten nicht zu nutzen
+
+Die vorangegangenen fünf Grundsätze bieten denjenigen Hochschuleinrichtungen, die Daten nutzen oder deren Nutzung planen, eine Orientierungshilfe. Der sechste Grundsatz macht deutlich, dass Hochschulen es sich nicht leisten können, keine Lernanalysen zu verwenden. Die Auslöser für die Einführung von Learning Analytics hängen von der Antwort der Hochschule auf die Frage nach ihrem Hauptzweck ab. Unabhängig davon, ob ihr Ziel darin besteht, Gewinne zu erwirtschaften oder die Ergebnisse für die Studierenden zu verbessern, sollten die Einrichtungen die verfügbaren Daten nutzen, um die Ergebnisse besser zu verstehen und sich dann mit ihnen auseinanderzusetzen bzw. sie zu verbessern (Bienkowski et al., 2012; Campbell et al., 2007). Informationen zu ignorieren, die aktiv dazu beitragen könnten, die Ziele einer Einrichtung zu verfolgen, scheint extrem kurzsichtig zu sein. Institutionen sind rechenschaftspflichtig, sei es gegenüber Aktionären, Regierungen oder den Studierenden selbst. Mit Learning Analytics können Hochschuleinrichtungen allen Beteiligten helfen, "den Nebel zu durchdringen, der sich über einen Großteil der Hochschulbildung gelegt hat" (Long & Siemens, 2011, S. 40).
+Überlegungen zu Learning Analytics als moralische Praxis
+
+In Übereinstimmung mit dem Vorschlag von Ess et al. (2012) schlagen wir anstelle eines Verhaltenskodex eine Reihe von Erwägungen vor, um Flexibilität und eine Reihe von Kontexten zu ermöglichen, in denen sie möglicherweise angewendet werden müssen. Die folgenden Überlegungen sind so strukturiert, dass sie Fragen zu Nutzen, Zustimmung, Gefährdung und Schaden, Daten sowie Lenkung und Ressourcenverteilung behandeln.
+Wer profitiert und unter welchen Bedingungen?
+
+Die Antwort auf diese Frage bildet die Grundlage für die Betrachtung der ethischen Dimensionen von Learning Analytics. Aus der Literaturrecherche geht hervor, dass sowohl die Studierenden als auch die Hochschule davon profitieren sollten und dass der größte Nutzen entsteht, wenn Studierende und Hochschule als Akteure bei der Lernanalyse zusammenarbeiten. Studierende sind nicht einfach Empfänger von Dienstleistungen oder Kunden, die für eine Ausbildung bezahlen. Sie sind und sollten aktiv mitbestimmen, in welchem Umfang und zu welchem Zweck und unter welchen Bedingungen (z. B. De-Identifizierung) die von ihnen erhobenen Daten genutzt werden. Andererseits liegt es auf der Hand, dass die Hochschuleinrichtungen die Auswahl der erhobenen und analysierten Daten optimieren müssen, um immer effektivere und angemessenere Lern- und Unterstützungsangebote für die Studierenden bereitzustellen. Wir sind der festen Überzeugung, dass die Studierenden darüber informiert werden sollten, dass die Hochschulen nicht nur Daten sammeln, sondern auch sicherstellen müssen, dass eine De-Identifizierung der Daten die Personalisierung nicht behindert, um eine personalisierte und angemessene Lernerfahrung zu ermöglichen. Eine Einigung über die Notwendigkeit und den Zweck der Datenerhebung unter bestimmten Bedingungen schafft eine Vertrauensbasis zwischen der Hochschule und den Studierenden. Beide Vertragsparteien sind sich darüber im Klaren, dass die Richtigkeit und Vollständigkeit der Daten eine optimale Personalisierung, angemessenes Lernen und Unterstützung sowie Kosteneffizienz ermöglicht.
+Bedingungen für die Einwilligung, De-Identifizierung und Opting-out
+
+Obwohl die informierte Zustimmung in der Forschung eine gängige Praxis ist, gilt dies nicht für die Verwendung von Studierendendaten in anderen Bildungskontexten. In Anbetracht der Tatsache, dass sich der Umfang und die Art der verfügbaren Daten dramatisch verändert haben, sollten wir den Begriff der informierten Zustimmung im Bereich der Lernanalyse neu überdenken.
+
+Ist die Einwilligung nach Aufklärung eine unabdingbare Voraussetzung, oder gibt es Umstände, unter denen andere Grundsätze die Notwendigkeit einer Einwilligung nach Aufklärung überlagern? Es gibt viele Beispiele in verschiedenen Bereichen (z. B. Bioethik), in denen auf den Grundsatz der Einwilligung nach Aufklärung unter bestimmten Umständen verzichtet werden kann oder wenn die bestehenden Rechtsvorschriften ausreichen (z. B. Datenschutzvorschriften). Im Extremfall kann auf eine informierte Zustimmung verzichtet werden, wenn der Nutzen für die Allgemeinheit die Bedürfnisse des Einzelnen übersteigt. Im Zusammenhang mit der Lernanalytik könnte man meinen, dass es nur wenige oder gar keine Gründe gibt, die Studierenden nicht über die Verwendung ihrer Daten und die verwendeten Modelle (soweit sie zu diesem Zeitpunkt bekannt sind) zu informieren und ein System der informierten Zustimmung einzurichten. In Anbetracht der kontinuierlichen Fortschritte in der Technologie und unseres Verständnisses der effektiven Anwendungen von Learning Analytics muss diese Zustimmung möglicherweise regelmäßig erneuert werden. Wie Herring (2002) feststellt, deutet die sich im Laufe der Zeit ändernde Zusammensetzung der Studierendengruppen darauf hin, dass die Einholung einer informierten Zustimmung problematisch sein kann. Sie weist auf die Notwendigkeit hin, ein angemessenes Gleichgewicht zwischen der Durchführung qualitativ hochwertiger Forschung und dem Schutz der Nutzer vor potenziellem Schaden herzustellen. In der Praxis kann dies bedeuten, dass eine breite Definition des Spektrums möglicher Verwendungszwecke für die Daten der Studierenden gegeben wird, von denen einige für den Einzelnen weniger relevant sein können.
+
+Buchanan (2011) schlägt unter Bezugnahme auf die Arbeit von Lawson (2004) einen differenzierten Ansatz für die Einwilligung vor, der den Studierenden eine Reihe von Möglichkeiten bietet, die (teilweise) Identifizierung von Personen zu verweigern, wenn sie Teil einer veröffentlichten Studie sind. Vor diesem Hintergrund erscheint es sinnvoll, zwischen der Analyse und Verwendung anonymisierter Daten zu Berichtszwecken gegenüber Aufsichtsbehörden oder zu Finanzierungszwecken und anderen Arbeiten zu spezifischen Aspekten des studentischen Engagements zu unterscheiden. Im Zusammenhang mit Berichtszwecken unterstützen wir die Auffassung, dass der Nutzen für die Mehrheit das Recht des Einzelnen, seine Zustimmung zur Verwendung seiner Daten zu verweigern, überwiegt. Studierende können sich jedoch gegen institutionelle Initiativen zur Personalisierung des Lernens entscheiden - unter der Bedingung, dass sie über die Folgen ihrer Entscheidung informiert werden und sich dieser bewusst sind.
+
+Die Einrichtungen sollten auch garantieren, dass die Daten der Studierenden nach einer bestimmten Anzahl von Jahren dauerhaft anonymisiert werden, je nach den nationalen Gesetzen und Vorschriften.
+Verletzlichkeit und Schaden
+
+Definitionen. Wie definieren wir Verletzlichkeit und Schaden und verhindern potenziellen Schaden, nicht nur für Studierende, sondern für alle Beteiligten? Bei der Betrachtung dieser Frage könnten wir über Aspekte wie implizite oder explizite Diskriminierung (bei der ein Student aufgrund eines nach außen hin als zufällig angesehenen persönlichen Merkmals Unterstützung erhält oder nicht), Etikettierung (bei der Studierende anhand einer Kombination von Merkmalen gebrandmarkt und - möglicherweise für die Dauer ihres Studiums - als irgendwie anders als andere behandelt werden) und die Gültigkeit der Behandlung von Gruppen von Studierenden auf der Grundlage von Annahmen über ihre gemeinsamen Merkmale nachdenken. Eine Möglichkeit, die potenzielle Rolle von Voreingenommenheit und Stereotypisierung anzugehen, besteht darin, eine Position der "Rawls'schen Blindheit" (Harvey, 2012, Abs. 12) einzunehmen, bei der die demografischen und früheren Bildungsdaten der Studierenden nicht von Anfang an zur Vorhersage ihrer Erfolgs- und Misserfolgschancen verwendet werden. Andererseits: Ist es ethisch vertretbar, den Vorhersagewert von Forschungsergebnissen in bestimmten Kontexten zu ignorieren?
+
+Wir schlagen vor, dass das Potenzial für Verzerrungen und Stereotypisierung in der prädiktiven Analyse bei institutionellen Versuchen, die Risikoprofile von Studierenden zu kategorisieren, in den Vordergrund gestellt werden sollte. Die Einrichtungen sollten diesen Studierenden zusätzliche Möglichkeiten bieten, entweder die anfänglichen Vorhersageanalysen als falsch oder unvollständig zu erweisen oder sich trotz anfänglicher institutioneller Zweifel an ihrem Potenzial zu rehabilitieren. Bei der Bestimmung dessen, was im Zusammenhang mit Learning Analytics eine Schwachstelle darstellen könnte, sollten die Einrichtungen darauf achten, dass die Analysen mit robusten und angemessen repräsentativen Datensätzen durchgeführt werden.
+
+Entschädigung für Studierende. Wenn ein System der Transparenz und der informierten Zustimmung eingeführt wird, könnte man argumentieren, dass das Potenzial für Missbrauchsvorwürfe und Schäden minimiert wird. Es ist jedoch unwahrscheinlich, dass Ansätze in ihrer Betrachtung potenzieller (zukünftiger) Szenarien vollständig umfassend sein können, und es ist denkbar, dass Studierende argumentieren, dass sie benachteiligt wurden (vielleicht weil sie nicht die wahrgenommenen Vorteile erhalten, die andere Studierende haben). Bollier (2010) liefert ein Beispiel für eine Zukunft, in der Studierende mit geringem Risiko (und daher geringen Kosten) eine Vorzugsbehandlung (z. B. geringere Zulassungsvoraussetzungen) auf "Kosten" der vermeintlich risikoreichen Studierenden anstreben könnten. Zum jetzigen Zeitpunkt ist es schwierig, die längerfristigen Auswirkungen zu beurteilen, auch wenn die meisten Hochschuleinrichtungen über klare Beschwerde- und Berufungssysteme verfügen, die vielleicht überarbeitet werden sollten.
+
+Entschädigung für Einrichtungen. Umgekehrt besteht bei transparenten Systemen und Ansätzen ein erhöhtes Potenzial für den Missbrauch des Systems durch Studierende. Welche Möglichkeiten haben die Hochschulen, wenn Studierende falsche oder unvollständige Angaben machen, die ihnen zusätzliche Unterstützung auf Kosten der Hochschule (und anderer Studierender) verschaffen könnten? Die Studienordnungen enthalten in der Regel Erklärungen, die es der Einrichtung ermöglichen, die Einschreibung zu beenden, wenn die Angaben unwahr oder irreführend sind, und es gibt auch andere, weniger drakonische Maßnahmen, die ergriffen werden könnten.
+Datenerhebung, -analyse, -zugang und -speicherung
+
+Erhebung von Daten. Bei der Sammlung von Daten aus unterschiedlichen Quellen müssen die Einrichtungen darauf achten, dass sie "Fehler nicht verstärken", die sich aus den "unterschiedlichen Standards, Eigentümern und Zugriffsebenen" der verschiedenen Websites ergeben (Ferguson, 2012, S. 6). Es ist allgemein anerkannt, dass die Daten über das institutionelle LMS ein unvollständiges Bild der Lernprozesse der Lernenden vermitteln. Da die digitalen Netzwerke der Lernenden zunehmend auch Quellen außerhalb des LMS umfassen, können die Einrichtungen Daten von außerhalb des LMS (z. B. Twitter- und Facebook-Konten, unabhängig davon, ob es sich um studienbezogene oder private Konten handelt) nutzen, um ein umfassenderes Bild der Lernverläufe der Studierenden zu erhalten. Die Einbeziehung von Daten von Websites, die nicht in den Zuständigkeitsbereich einer Einrichtung fallen, wirft eine Reihe von Bedenken auf, da die Hochschulen keine Kontrolle über die Richtlinien der externen Websites haben und die Authentifizierung der Identität der Studierenden problematischer ist. Die Studierenden haben das Recht, über die Websites informiert zu werden, die zur Sammlung von Informationen verwendet werden, und ihre Zustimmung zum Umfang und zum Recht der Einrichtung, Daten aus solchen Quellen zu sammeln, zu analysieren und zu verwenden, zu geben. In den Registrierungsinformationen sollte ausdrücklich auf die breitere Verwendung von Studierendendaten hingewiesen werden.
+
+Auswertungen von Daten. Die Einrichtungen sollten sich verpflichten, mit der gebotenen Sorgfalt vorzugehen, um Voreingenommenheit und Stereotypisierung zu vermeiden und dabei stets die unvollständige und dynamische Natur der individuellen Identität und Erfahrungen zu berücksichtigen. Algorithmen, die in der Lernanalytik eingesetzt werden, können von Natur aus die Voreingenommenheit und die Vorurteile in der kulturellen, geopolitischen, wirtschaftlichen und gesellschaftlichen Realität widerspiegeln und aufrechterhalten. Wie Subotzky und Prinsloo (2011, S. 182) feststellen, erklären unsere Vorhersagemodelle nur "einen Teil des breiten Spektrums an Verhaltensweisen, die das Universum der sozialen Interaktionen" zwischen Studierenden und Einrichtung ausmachen. Die Studierenden und die Einrichtung tragen daher eine gemeinsame Verantwortung, die "von gegenseitigem Engagement abhängt, das wiederum von handlungsfähigem gegenseitigem Wissen abhängt" (Subotzky & Prinsloo, 2011, S. 183).
+Es sollte darauf geachtet werden, dass die Kontexte der analysierten Daten sorgfältig berücksichtigt werden, bevor vorläufige Vorhersagen und Analysen gemacht werden. Daten, die in einem bestimmten Kontext erhoben wurden, sind möglicherweise nicht direkt auf einen anderen übertragbar. Vorhersagemodelle und Algorithmen sollten darauf achten, "Autopropaganda" (Pariser, 2011) zu verhindern und es den Studierenden zu ermöglichen, außerhalb der modellierten Profile und Handlungsvorschläge zu handeln.
+
+Zugang zu Daten. In Übereinstimmung mit dem Vorschlag von Kruse und Pongsajapan (2012) für eine "studierendenzentrierte" Lernanalytik schlagen wir vor, dass Studierende ein Recht darauf haben, dass ihre Daten vor unbefugtem Zugriff geschützt werden und dass ihre informierte Zustimmung (wie oben erörtert) garantiert wird, wenn ihre Daten verwendet werden. In Anbetracht des ungleichen Machtverhältnisses zwischen Studierenden und Hochschule sollte die Hochschule Maßnahmen ergreifen, um den Zugang zu den Studierendendaten zu schützen und den Studierenden Rechtsmittel zur Verfügung zu stellen, falls Unbefugte Zugang zu ihren personenbezogenen Daten erhalten.
+
+In der Praxis haben aufgrund der Art des Regelungs-, Finanzierungs- und Akkreditierungsrahmens eine Vielzahl von Akteuren Zugang zu den Daten der Studierenden. In Fällen, in denen Arbeitgeber das Studium der Studierenden finanzieren, haben die Sponsoren möglicherweise Rechte an den Daten über die Fortschritte der Studierenden. Es wird vorgeschlagen, dass die Studierenden jederzeit Zugang zu ihren gespeicherten Daten haben und einen Überblick über die Akteure erhalten, die Zugriff auf bestimmte Datensätze haben. Die Einrichtungen sollten auch angemessene Maßnahmen ergreifen, um die Studierenden über den Umfang und die Art ihrer Datenspuren aufzuklären, wenn sie im Laufe ihres Studiums eine Reihe von sozialen Netzwerken nutzen. Obwohl die Institutionen nicht für das Niveau der digitalen Kompetenz der Studierenden verantwortlich gemacht werden können, gibt es möglicherweise gute Gründe, die digitale Kompetenz als integralen Bestandteil der Eigenschaften von Hochschulabsolventen zu fördern (Nawaz & Kundi, 2010). Wenn Lehr- und Lernangebote soziale Netzwerke außerhalb des institutionellen LMS einbeziehen, sollten die Institutionen auch sicherstellen, dass die Lernenden ausdrücklich über den öffentlichen Charakter und den möglichen Missbrauch von Informationen, die auf diesen Seiten gepostet werden, informiert werden, und die Lehrkräfte sollten die Konsequenzen bedenken, bevor sie solche Seiten nutzen.
+
+Aufbewahrung und Speicherung von Daten. Obwohl das Eigentumsverhältnis von Daten in der nicht internetbasierten Forschung recht eindeutig ist, ist das Eigentumsverhältnis von Daten aus dem Internet weniger klar, und das Fehlen internationaler Grenzen "verwirrt das Eigentumsverhältnis, da Datenbanken, Datensätze und Server grenzüberschreitend ihr Zuhause finden" (Buchanan, 2011, S. 98). Die Einrichtungen sollten Garantien und Richtlinien für die Aufbewahrung und Speicherung von Daten im Einklang mit nationalen und internationalen Vorschriften und Gesetzen bereitstellen. Die Studierenden sollten darüber informiert werden, dass ihre Daten verschlüsselt werden. Viele Länder haben einen rechtlichen Rahmen geschaffen, der sicherstellt, dass Einzelpersonen die Berichtigung oder dauerhafte Löschung aller über sie gespeicherten personenbezogenen Daten beantragen können, die möglicherweise ungenau, irreführend oder veraltet sind. Im südafrikanischen Kontext bietet beispielsweise das Gesetz zur Förderung des Zugangs zu Informationen (Promotion of Access to Information Act 2 of 2000) Einzelpersonen "ein gewisses Maß an direktem Einfluss auf die Verarbeitung ihrer persönlichen Daten" (KPMG, 2010). Petersen (2012) schlägt vor, 
+
+Eine der ersten Aufgaben einer Datenverwaltungsstelle besteht darin, eine Bestandsaufnahme der Datenquellen auf dem Campus vorzunehmen und ein Datenklassifizierungssystem zu erstellen, das die Daten in Kategorien einordnet, die das erforderliche Schutzniveau bestimmen. Dieser Prozess kann für eine private Hochschule anders aussehen als für eine öffentliche Einrichtung, da staatliche Gesetze oder Vorschriften vorschreiben können, dass bestimmte Informationen der Öffentlichkeit zugänglich sein müssen. Ein typisches Klassifizierungsschema für eine öffentliche Hochschule oder Universität könnte die Kategorien (1) öffentlich, (2) nicht-öffentlich und (3) sensibel oder geregelt umfassen. (S. 46)
+Verwaltung und Ressourcenzuweisung
+
+Hochschuleinrichtungen sollten je nach den nationalen Rechts- und Verwaltungsvorschriften für eine wirksame Verwaltung und Kontrolle von Daten sorgen. Petersen (2012, S. 46) stellt fest: "Der wichtigste Schritt, den eine Hochschule unternehmen kann, ist die Schaffung einer umfassenden Struktur für die Datenverwaltung, die alle Arten von Daten berücksichtigt, die in verschiedenen Situationen verwendet werden." Dies impliziert nicht nur die strategische Konzeptualisierung von Learning Analytics, sondern auch eine angemessene Struktur- und Ressourcenzuweisung. Die Ressourcenzuweisung steht zwangsläufig im Zusammenhang mit Zweck und Nutzen. Bevor die Institution (oder der Fachbereich) mit der Anwendung eines Learning-Analytics-Ansatzes beginnt, sollte sie sich darüber im Klaren sein, was ihre wichtigsten Erfolgsfaktoren sind, welche Einschränkungen bestehen und welche Bedingungen erfüllt werden müssen.
+Schlussfolgerungen
+
+Trotz der beträchtlichen Unsicherheiten bedeutet das anhaltende Wachstum von Learning Analytics, dass wir nicht nur die enormen Möglichkeiten für eine bessere und effektivere Entscheidungsfindung in der Hochschulbildung berücksichtigen müssen (Oblinger, 2012), sondern auch die ethischen Herausforderungen bei der Institutionalisierung von Learning Analytics als Mittel zur Förderung und Gestaltung der Studierendenbetreuung erkunden müssen.
+
+Mit Blick auf die künftige Ausrichtung der Forschungsethik in vernetzten Umgebungen ("Forschungsethik 2.0") bemerkt Buchanan (2011): "Da soziale Netzwerke, Hyper-Blogging, Folksonomien, Wikis usw. die soziale Interaktion weiter verändern, muss sich auch die Forschung selbst und damit die Forschungsethik verändern." Forscher und Ethikkommissionen sollten "zusammenarbeiten, um die nächste Generation der Forschungsethik zu schmieden, eine Generation, die die Kernprinzipien beibehält und gleichzeitig neue Möglichkeiten für wichtige Forschungsbemühungen schafft" (S. 103).
+
+Die Lernanalyse ist in erster Linie eine moralische und pädagogische Praxis, die einem besseren und erfolgreicheren Lernen dient. Die inhärente Gefahr und das Versprechen des Zugangs zu und der Analyse von "Big Data" (Bollier, 2010) erfordern eine sorgfältige Betrachtung der ethischen Dimensionen und Herausforderungen von Learning Analytics. Die in diesem Artikel vorgeschlagenen Grundsätze und Überlegungen bieten einen ethischen Rahmen für Hochschuleinrichtungen, um kontextgerechte Lösungen und Strategien zur Steigerung der Qualität und Effektivität von Lehre und Lernen anzubieten.
+
+
+
+<h3 dir="ltr">Perspektiven zu ethischen Fragen der Lernanalyse</h3>
+<p>Die veröffentlichte Literatur zu ethischen Erwägungen im Zusammenhang mit Learning Analytics konzentriert sich in der Regel auf Themen wie die historische Entwicklung der Forschungsethik in der Internetforschung, den Nutzen von Learning Analytics für eine Reihe von Interessengruppen und Fragen des Datenschutzes, der informierten Zustimmung und des Zugangs zu Datensätzen. Da sich viele dieser Themen überschneiden, ist die folgende Literaturübersicht so strukturiert, dass sie systematisch eine Reihe verschiedener ethischer Fragen zu Learning Analytics in der Hochschulbildung beleuchtet. Wir versuchen auch, eine Reihe von Themen hervorzuheben, die entweder noch nicht oder nur unzureichend im Kontext von Learning Analytics berücksichtigt wurden.<br></p>
+<h4 dir="ltr">Eine Arbeitsdefinition von Learning Analytics<br></h4>
+<p dir="ltr">Oblinger
+    (2012) unterscheidet zwischen Learning Analytics und Ansätzen wie
+    Business Intelligence und Academic Analytics und definiert Learning
+    Analytics als Ausrichtung auf "Studierende und ihr Lernverhalten, wobei
+    Daten aus Kursmanagement- und Studenteninformationssystemen gesammelt
+    werden, um den Lernerfolg zu verbessern" (S. 11). In diesem Artikel
+    definieren wir Learning Analytics als die Sammlung, Analyse, Nutzung und
+    angemessene Bereitstellung von durch Studierende generierten,
+    verwertbaren Daten mit dem Ziel, angemessene kognitive, administrative
+    und effektive Unterstützung für Lernende zu schaffen.</p>
+<h4 dir="ltr">Ein Überblick über den Zweck und die Erhebung von Bildungsdaten</h4>
+<p>Ethische
+    Herausforderungen und Probleme bei der Nutzung von Bildungsdaten können
+    sinnvollerweise im Kontext der Geschichte der Internet-Forschungsethik
+    und vor dem Hintergrund der Entwicklung der Forschungsethik nach Fällen
+    wie dem Tuskegee-Experiment (Lombardo &amp; Dorr, 2006), der
+    Veröffentlichung des Nürnberger Kodex im Jahr 1947 und der Deklaration
+    von Helsinki des Weltärztebundes aus dem Jahr 1964 betrachtet werden.
+    Überall wurde versucht, ein Gleichgewicht zwischen "individuellem
+    Schaden und wissenschaftlichem Erkenntnisgewinn" zu finden (Buchanan,
+    2011, S. 84). Das Aufkommen des Internets eröffnete neue Bereiche für
+    Bedenken, die oft außerhalb der traditionellen Grenzen und Richtlinien
+    für ethische Forschung liegen. Anfang der 1990er-Jahre wurde die
+    Internet-Forschungsethik ins Leben gerufen, um Leitlinien für die
+    komplexe Durchführung von Forschungen zu Internet-Populationen und
+    -Daten bereitzustellen. Im Jahr 2000 wurde dann von der Association of
+    Internet Researchers die Ethik-Arbeitsgruppe gegründet.</p>
+<p>{Q{learninganalytics/internetforschungsethik|9758d0cbfe5da4c191568e6075e16670c11492a42639031f86789bfdb167d7bc}Q}</p>
+<p>Hochschuleinrichtungen
+    haben schon immer in gewissem Umfang Daten analysiert, aber die schiere
+    Menge an Daten nimmt mit der Rechenkapazität der Einrichtungen, der
+    Verbreitung von Visualisierungstools und der steigenden Nachfrage nach
+    der Nutzung von Daten weiter zu. Infolgedessen stellen sich immer mehr
+    ethische Fragen im Zusammenhang mit der Erhebung und Analyse von
+    Bildungsdaten, zu denen ein besseres Verständnis und mehr Transparenz in
+    Bezug auf die "Zwecke, für die Daten erhoben werden, und den Umgang mit
+    sensiblen Daten" gehören (Oblinger, 2012, S. 12). Rechtliche
+    Rahmenwerke wie der U.S. Family Educational Rights and Privacy Act
+    konzentrieren sich weitgehend darauf, wie Informationen außerhalb einer
+    Einrichtung verwendet werden, und nicht auf ihre Verwendung innerhalb
+    der Einrichtung, und Oblinger (2012) argumentiert, dass es von
+    entscheidender Bedeutung ist, dass Einrichtungen die Studierenden
+    darüber informieren, "welche Informationen über sie zu welchen Zwecken,
+    von wem und zu welchem Nutzen verwendet werden" (S. 12). <br></p>
+<p>{Q{learninganalytics/informationeneinrichtung|6de205c88cde660ee84b10c7c317ff8d4c77736c7855220eac467fc0f0ad6911}Q}<br></p>
+<p>Subotzky und
+    Prinsloo (2011) weisen darauf hin, dass ein gegenseitiger Austausch von
+    geeignetem und verwertbarem Wissen zwischen Studierenden und der
+    anbietenden Einrichtung erforderlich ist. Ein solches Wissen über die
+    Studierenden kann das Angebot einer zeitnahen und maßgeschneiderten
+    Unterstützung erleichtern, die es den Studierenden ermöglicht,
+    fundiertere Entscheidungen zu treffen und entsprechend zu handeln.</p>
+<h4>Der pädagogische Zweck von Learning Analytics<br></h4>
+<p>In
+    krassem Gegensatz zu den Fortschritten bei der Datennutzung in anderen
+    Bereichen (z. B. Patienteninformationen im Gesundheitswesen) ist die
+    Hochschulbildung "traditionell ineffizient bei der Datennutzung und
+    arbeitet oft mit erheblichen Verzögerungen bei der Analyse von
+    unmittelbar sichtbaren Daten und Feedback" (Long &amp; Siemens, 2011, S.
+    32). Trotz der wahrscheinlichen Vorteile des Einsatzes von Learning
+    Analytics zum Messen, Sammeln, Analysieren und Berichten von "Daten über
+    Lernende und ihre Kontexte, um das Lernen und die Umgebungen, in denen
+    es stattfindet, zu verstehen und zu optimieren" (Long &amp; Siemens,
+    2011, S. 34), gibt es nach wie vor eine Reihe von ethischen
+    Herausforderungen und Problemen, die die Optimierung in der
+    Hochschulbildung betreffen.</p>
+<p>Obwohl Bildungsdaten einer Reihe von
+    Zwecken dienen (z. B. für die Auswertung von Studienerfolg und
+    Studienförderung), betont Booth (2012), dass Learning Analytics auch das
+    Potenzial hat, dem Lernen zu dienen. Ein Learning-Analytics-Ansatz kann
+    Bildung sowohl persönlich als auch inhaltlich relevant machen und es
+    den Studierenden ermöglichen, ihre eigene Identität innerhalb eines
+    größeren Systems zu bewahren. Eine optimale Nutzung der von den
+    Studierenden generierten Daten kann dazu führen, dass die Einrichtungen
+    ein besseres Verständnis der Lebenswelt und der Entscheidungen der
+    Studierenden erhalten, so dass sowohl die Einrichtung als auch die
+    Studierenden bessere und sachkundigere Entscheidungen treffen und
+    schneller auf umsetzbare und erkannte Bedürfnisse reagieren können
+    (Oblinger, 2012).</p>
+<p>{Q{learninganalytics/zweckelearninganalytics|0e85fe475ad150d2c9d0f21e7a37527b7d9b424dd9e2dc7bfefb47da10673053}Q}<br></p>
+<p>Mehrere Autoren (Bienkowski, Feng, &amp; Means,
+    2012; Campbell, DeBlois, &amp; Oblinger, 2007) verweisen auf die
+    Verpflichtung von Institutionen, auf der Grundlage der durch Analysen
+    gewonnenen Erkenntnisse zu handeln. Man kann durchaus sagen, dass es
+    auch Fälle geben kann, in denen Institutionen beschließen, nicht auf
+    Daten zu reagieren. Man könnte argumentieren, dass die Vorteile, die
+    sich aus der Reaktion auf Studentenkohorten mit bestimmten gemeinsamen
+    Merkmalen oder Verhaltensweisen ergeben, von geringem Nutzen oder
+    weniger vorteilhaft sind als gleichwertige oder geringere Investitionen
+    in andere Ressourcen. Die jüngste Umfrage des EDUCAUSE Center for
+    Applied Research (Bichsel, 2012, S. 13) bestätigt, dass die größte Sorge
+    im Zusammenhang mit dem zunehmenden Einsatz von Learning Analytics, die
+    von einer Reihe von Mitgliedern geäußert wurde, die finanziellen Kosten
+    der Implementierung sind, und nicht Fragen des Datenschutzes oder des
+    Datenmissbrauchs.</p>
+<p>{Q{learninganalytics/pflichtlearninganalytics|fc9958eeec8e195f5d1a223c4378ee6b606eb98c85fdcd0e0ca977934ed00fc8}Q}</p>
+<p>{Q{learninganalytics/gruendekeinlearninganalytics|c596888891c0c9e1309f6395cf4abf917d11557f043c28f551d0c2d219531435}Q}<br></p>
+<p>Die Entscheidung, zu handeln oder nicht zu
+    handeln, sowie die Kosten und ethischen Erwägungen in beiden Fällen
+    müssen im spezifischen Kontext der Anwendung berücksichtigt werden.
+    Nicht alle gesammelten Daten werden notwendigerweise eine Reaktion
+    seitens der Einrichtung nach sich ziehen oder auslösen. Dies macht
+    deutlich, dass zwar nicht alle Daten verwertbar sind, sie aber das
+    Verständnis der Einrichtungen für den Erfolg und die Bindung von
+    Studierenden verbessern können.<br></p>
+<p>Irgendwann müssen alle
+    Einrichtungen, die das Lernen von Studierenden unterstützen,
+    entscheiden, was ihr Hauptziel ist: die Zahl der Studierenden, die einen
+    Abschluss erreichen, zu maximieren, die Abschlussquoten von
+    Studierenden zu verbessern, die in irgendeiner Weise als benachteiligt
+    gelten, oder vielleicht einfach nur die Gewinne zu maximieren. Die Art
+    und Weise, wie eine Einrichtung Learning Analytics einsetzt, hängt davon
+    ab, welches dieser Ziele sie als ihr Hauptanliegen ansieht. Darüber
+    hinaus, und das ist vielleicht noch wichtiger für die Fähigkeit der
+    Einrichtung, positive Beziehungen zu ihren Studierenden zu pflegen, wird
+    die Art und Weise, wie die Studierenden den Einsatz einer solchen
+    Überwachung wahrnehmen, auch von ihrem eigenen Verständnis des Zwecks
+    und der Motivation der Einrichtung abhängen. Der Umgang mit dem
+    Verständnis und der Wahrnehmung der Studierenden ist daher eine wichtige
+    Priorität für jede Einrichtung, die Lernanalysen in ihre
+    Standardabläufe einbinden möchte.</p>
+<p>{Q{learninganalytics/wahrnehmungzweck|34d61571abc789811a2ced0d8c36a89ea7becc888edea468aba2be480f6e18f1}Q}</p>
+<p>{Q{learninganalytics/genanntezweckelearninganalytics|e2a074f6cab9306a1bab387aed294cefad662f466a95f1ac53d37a3e8e2eb863}Q}<br></p>
+<p>Bei der Betonung der Rolle
+    von Daten und Analysen für die Auswertung des Studienerfolgs, des
+    Verbleibs und des Durchsatzes ist es wichtig, sich daran zu erinnern,
+    dass Learning Analytics ein enormes Potenzial hat, in erster Linie dem
+    Lernen zu dienen (Kruse &amp; Pongsajapan, 2012). Wenn Institutionen die
+    Analyse und Nutzung von Daten in erster Linie zu Berichtszwecken
+    betonen, besteht die Gefahr, dass Studierende als passive
+    Datenproduzenten betrachtet werden, was dazu führt, dass Learning
+    Analytics als "aufdringliche Beratung" eingesetzt wird (Kruse &amp;
+    Pongsajapan, 2012, S. 2). Wenn die Absicht besteht, die von den
+    Studierenden erhobenen Daten für andere Zwecke zu nutzen, ist die
+    Einrichtung dafür verantwortlich, dies bekannt zu machen.</p>
+<p>{Q{learninganalytics/berichtszwecke|c2aeee6df67759dcd1795a8ca29bd954a129d4213cbdab14c58066296767cd6d}Q}<br></p>
+<h4>Macht und Überwachung in der Lernanalytik</h4>
+<p>Aufgrund
+    der inhärent ungleichen Machtverhältnisse bei der Nutzung von Daten,
+    die von Studierenden auf ihrem Bildungsweg generiert werden, schlagen
+    wir einen gesellschaftskritischen Rahmen vor, der es uns ermöglicht,
+    eine Reihe von ethischen Fragen wie Sichtbarkeit, Aggregation und
+    Überwachung zu behandeln. Obwohl die Online-Überwachung und die
+    Möglichkeiten der Kommerzialisierung von Online-Daten selbst zunehmend
+    kritisch hinterfragt werden (z. B. Andrejevic, 2011; Livingstone, 2005),
+    kann die Leichtigkeit, mit der wir heute Daten auf sozialen Netzwerken
+    teilen, auf eine zunehmende Sorglosigkeit oder einen weniger
+    vorsichtigen Umgang mit der Privatsphäre hindeuten (z. B. Adams &amp;
+    Van Manen, 2006). Dawson (2006) fand beispielsweise heraus, dass
+    Studierende ihr Online-Verhalten (z. B. die Bandbreite der diskutierten
+    Themen und den Schreibstil) änderten, wenn sie sich der institutionellen
+    Überwachung bewusst waren. Albrechtslund (2008, Abs. 46) untersucht den
+    Begriff der partizipativen Überwachung und konzentriert sich dabei auf
+    die Überwachung als "gegenseitige, horizontale Praxis" sowie auf die
+    sozialen und "spielerischen Aspekte" der Überwachung (siehe auch Knox,
+    2010b; Lyon, 2007; Varvel, Montague, &amp; Estabrook, 2007). Knox
+    (2010b) liefert eine sehr nützliche Typologie der Überwachung, die unter
+    anderem den Unterschied zwischen Überwachung und Beobachtung,
+    Automatisierung und Sichtbarkeit sowie verschiedene Aspekte der
+    rhizomatischen und prognostischen Überwachung hervorhebt. Die
+    rhizomatische Überwachung unterstreicht den dynamischen,
+    multidirektionalen Fluss des Überwachungsakts in einem Synoptikum, in
+    dem die vielen die wenigen beobachten können. Das Synoptikum und das
+    Panoptikum funktionieren gleichzeitig und interagieren (Knox, 2010b).</p>
+<p>{Q{learninganalytics/bewusstueberwachung|756c06d97b68ddb0080361a3b53755a78478b211257fcf53d5c62376067df5cb}Q}<br></p>
+<p>Die
+    zunehmende Überwachung in Lehr- und Lernumgebungen wirkt sich auch auf
+    die Arbeit und die Identität von Tutoren, Lehrkräften und
+    Administratoren aus, wodurch bestehende Machtverhältnisse durchbrochen
+    und neue Rollen und Verantwortlichkeiten eingeführt werden (z. B. Knox,
+    2010a).</p>
+<p>In den folgenden Abschnitten wird eine Reihe von ethischen
+    Fragen erörtert, die in drei großen, sich überschneidenden Kategorien
+    unterteilt sind:</p>
+<ol>
+    <li>Ort und Auswertung von Daten <br></li>
+    <li>Einwilligungserklärung, Datenschutz und De-Identifizierung von Daten</li>
+    <li>Die Verwaltung, Klassifizierung und Speicherung von Daten<br></li>
+</ol>
+<h4>1. Ort und Auswertung von Daten</h4>
+<p>Inzwischen
+    ist es so, dass "ein erheblicher Teil der Aktivitäten der Lernenden
+    außerhalb [der Einrichtung] stattfindet. ... Aufzeichnungen sind über
+    eine Vielzahl verschiedener Orte mit unterschiedlichen Standards,
+    Eigentümern und Zugriffsebenen verteilt" (Ferguson, 2012, Abs. 6). Dies
+    weist auf die Schwierigkeiten hin, die mit dem Versuch verbunden sind,
+    eine einzige Sammlung von Leitlinien für die ethische Nutzung an einer
+    solchen Vielzahl von Standorten durchzusetzen, von denen jeder
+    beispielsweise seine eigenen Datenschutzstandards hat. <br>Darüber
+    hinaus stellt sich die Frage nach der Art und Interpretation digitaler
+    Daten als vollständig repräsentativ für einen bestimmten Studierenden
+    (eine Kohorte). Beim Umgang mit fehlenden und unvollständigen Daten zur
+    Nutzung des Lernmanagementsystems (LMS) der Einrichtung (Whitmer,
+    Fernandes, &amp; Allen, 2012) können Korrelationen zwischen
+    verschiedenen Variablen vermutet werden. Solche Annahmen können durch
+    die eigene Perspektive des Analysten beeinflusst werden und zu unbewusst
+    verzerrten Interpretationen führen. Der distributive Charakter von
+    Netzwerken und die Unmöglichkeit, Aktivitäten außerhalb der internen
+    Systeme einer Institution zu verfolgen, beeinträchtigen ebenfalls die
+    Fähigkeit, ein ganzheitliches Bild der Lebenswelt von Studierenden zu
+    erhalten. Wir verfügen nicht nur nicht über alle Daten, sondern viele
+    der Daten, die wir haben, erfordern "eine umfassende Filterung, um die
+    'Datenflut' in der LMS-Protokolldatei in pädagogisch relevante
+    Informationen umzuwandeln" (Whitmer et al., 2012, Abs. 22).</p>
+<p>{Q{learninganalytics/ganzheitlichesbild|49c10657183e1a0948dfde1f97388e7562516b918fe78aad3aeb8dbea93afa4d}Q}<br></p>
+<p>Es gibt
+    auch Auswirkungen von ineffektiven und fehlgeleiteten Interventionen,
+    die aus fehlerhaften Lerndiagnosen resultieren und zu "Ineffizienz,
+    Unmut und Demotivierung" führen können (Kruse &amp; Pongsajapan, 2012,
+    S. 3). Darüber hinaus kann die systematische Modellierung von
+    Verhaltensweisen, die notwendigerweise Annahmen (z. B. über die
+    Dauerhaftigkeit der Lernkontexte von Studierenden) beinhaltet, das Verhalten
+    von Institutionen gegenüber ihren Studierenden und deren Reaktion auf sie
+    bestimmen und einschränken, und zwar sowohl als Einzelpersonen als auch
+    als Mitglieder verschiedener Kohorten. Ess, Buchanan und Markham (2012)
+    bestätigen, dass es notwendig ist, das Individuum innerhalb eines
+    möglicherweise sehr großen und entpersonalisierten Datensatzes zu
+    berücksichtigen, selbst wenn dieses Individuum nicht erkennbar ist.
+    Maßnahmen, die von einer Kohorte beeinflusst werden, in der ein Student nur ein Teil ist, können sich dennoch nachteilig auf die Möglichkeiten
+    dieses Studenten auswirken. In seinem kürzlich erschienenen Artikel warnt
+    Harvey (2012, Abs. 9), dass "dieser Prozess eine Verdinglichung von
+    Identitäten zur Folge hat, bei der die Unterstützung eher durch
+    Assoziation als durch individuelle Bedürfnisse zugewiesen wird".</p>
+<p>{Q{learninganalytics/fehlerhaftelerndiagnosen|dcb53f7a18c8381f712fa704b13cf0c62b4c14d07da89f71830b4350b3244dc8}Q}</p>
+<p>{Q{learninganalytics/verhaltensmodellierungen|56b7f7f84db16c8b7d582e28f5035ad4a2497e4e1ecd5e81e7caf0d8f03a059b}Q}<br></p>
+<p>Angesichts des breiten Spektrums an Informationen, die in solche Modelle
+    einfließen können, besteht die bekannte Gefahr einer potenziellen
+    Voreingenommenheit und Übervereinfachung (Bienkowski et al., 2012;
+    Campbell et al., 2007; May, 2011). Wenn wir dies akzeptieren, sollten
+    wir dann auch das Recht der Studierenden in Frage stellen, ein
+    Individuum zu bleiben, und fragen, ob es für Studierende angemessen ist,
+    sich der ihnen angehefteten Etiketten bewusst zu sein? Gibt es
+    bestimmte Etiketten, die verboten werden sollten? Da sich die
+    Studierenden der Auswirkungen einer solchen Kennzeichnung immer stärker
+    bewusst werden, kann die Möglichkeit, sich dagegen zu entscheiden oder
+    bestimmte Merkmale aktiv falsch darzustellen, um eine Kennzeichnung zu
+    vermeiden, die Aussagekraft des verbleibenden Datensatzes
+    beeinträchtigen. Viele Institutionen setzen Lernanalysen ein, um
+    Studierende zu Studienentscheidungen zu bewegen oder
+    Unterstützungsstrategien anzuwenden, von denen angenommen wird, dass sie
+    ein größeres Erfolgspotenzial bieten (Parry, 2012), aber welche
+    Verpflichtung besteht für den Studierenden, entweder explizite Beratung
+    anzunehmen oder Unterstützung zu suchen, die möglicherweise im
+    Widerspruch zu seinen eigenen Präferenzen oder Studienzielen steht
+    (Ferguson, 2012)? Es besteht die Gefahr einer "Rückkehr zum
+    Behaviorismus als Lerntheorie, wenn wir die Analytik auf Verhaltensdaten
+    beschränken" (Long &amp; Siemens, 2011, S. 36-38).</p>
+<p>{Q{learninganalytics/reaktionstudierende|ddf9deaa2e520b5b255d6dbb98046a294b103e904df40405b6326eb558c99f5e}Q}<br></p>
+<h4>2. Einwilligungserklärung, Datenschutz und De-Identifizierung von Daten</h4>
+<p>Obwohl
+    sich die Studierenden zunehmend der wachsenden Verbreitung von Data
+    Mining zur Überwachung und Beeinflussung des Kaufverhaltens bewusst
+    sind, ist nicht klar, ob sie sich in gleichem Maße des Ausmaßes bewusst
+    sind, in dem dies in einem Bildungsumfeld geschieht. Epling, Timmons und
+    Wharrad (2003) erörtern Fragen zur Akzeptanz der Überwachung von
+    Studierenden und diskutieren darüber, wer die wahren Nutznießer sind.
+    Campbell et al. (2007) weisen explizit auf die Verwendung von Daten für
+    nichtpädagogische Zwecke hin und verweisen dabei auf die Verwendung von
+    Studierendendaten z. B. für die Mittelbeschaffung. Wel und Royakkers
+    (2004) erörtern die ethischen Aspekte der Überwachung und Analyse von
+    Studierendendaten ohne deren ausdrückliches Wissen. Interessanterweise
+    erörtern Land und Bayne (2005) die breite Akzeptanz der Überwachung von
+    Studierenden und zitieren Studien, in denen sie feststellen, dass das
+    Konzept der Aufzeichnung von Bildungsaktivitäten für Studierende
+    durchaus akzeptabel zu sein scheint. Der Begriff der Online-Privatsphäre
+    als soziale Norm wird zunehmend in Frage gestellt (Arrington, 2010;
+    Coll, Glassey, &amp; Balleys, 2011). <br></p>
+<p>{Q{learninganalytics/akzeptanzaufzeichnung|521c98996ac4150dfa16648030a2642d9f34544e5a1fb8319d56a0e6d2006bec}Q}<br></p>
+<p>In Anbetracht der allgemeinen
+    Besorgnis über die Überwachung und ihre Auswirkungen auf die
+    Privatsphäre von Studierenden und Lehrkräften weist Petersen (2012) auf
+    die Bedeutung der De-Identifizierung von Daten hin, bevor diese für die
+    institutionelle Nutzung zur Verfügung gestellt werden, einschließlich
+    der Möglichkeit, "eindeutige Identifikatoren für Personen im Datensatz
+    zu behalten, ohne die tatsächliche Identität der Personen zu
+    identifizieren" (S. 48). Dieser letzte Punkt bezieht sich auf die
+    Notwendigkeit, Interventionen für Gruppen von Studierenden auf der
+    Grundlage ihrer Merkmale oder Verhaltensweisen anzubieten und
+    gleichzeitig ihre Anonymität innerhalb des größeren Datensatzes zu
+    gewährleisten.</p>
+<p>{Q{learninganalytics/deidentifizierung|1073708ede00f2143486b01e90eed83711ffbaa75d16098471b2d41de4ee0fd1}Q}<br></p>
+<h4>3. Die Klassifizierung und Verwaltung von Daten</h4>
+<p>Petersen
+    (2012) schlägt einen ganzheitlichen Ansatz für eine transparente
+    Datenverwaltung vor, einschließlich der Notwendigkeit einer "umfassenden
+    Datenverwaltungsstruktur, die sich mit allen Arten von Daten befasst,
+    die in verschiedenen Situationen verwendet werden", und der
+    Notwendigkeit, "ein Datenklassifizierungssystem zu schaffen, das die
+    Daten in Kategorien einteilt, die das erforderliche Schutzniveau
+    bestimmen" (S. 46-47). Er schlägt vor, Datenverwalter zu ernennen, die
+    Standards und Kontrollen überwachen und Richtlinien beispielsweise für
+    den Datenzugriff festlegen, sowie Datenwächter, die die Einhaltung der
+    Richtlinien und Verfahren sicherstellen, ohne die Befugnis zu haben, zu
+    bestimmen, wer auf Datensätze zugreifen darf und wer nicht. Obwohl sich
+    Petersens Bemerkungen speziell auf die allgemeine Datenverwaltung
+    beziehen, könnte auch die Lernanalytik von einem solchen Ansatz
+    profitieren. <br></p>
+<p>Im Hinblick auf die Bedeutung von Vertrauen bei der
+    Kontrolle und Überwachung (z. B. Adams &amp; Van Manen, 2006; Knox,
+    2010a; Livingstone, 2005) stimmen wir zu, dass die Klassifizierung von
+    Daten, wie von Petersen (2012) vorgeschlagen, ein wesentliches Element
+    ist, um sicherzustellen, dass der angemessene Zugang zu verschiedenen
+    Arten von Daten geregelt wird.</p>
+<p>Ein wesentlicher Aspekt bei der
+    Betrachtung der ethischen Herausforderungen im Bereich Learning
+    Analytics ist die Berücksichtigung der Auswirkungen der verwendeten
+    Tools. Wagner und Ice (2012) untersuchen die Relevanz von
+    Mustererkennung und Business-Intelligence-Techniken in der sich
+    entwickelnden Learning-Analytics-Landschaft, die Spielraum für mehr
+    Erfolg bieten, indem sie die Beteiligten anleiten, "den sprichwörtlich
+    richtigen Ort und die richtige Zeit zu erkennen" (S. 34). Obwohl die
+    Mustererkennung ein enormes Potenzial für die Bereitstellung
+    maßgeschneiderter und zeitnaher Unterstützung für Studierende birgt,
+    besteht, wie von Pariser (2011) hervorgehoben, die Gefahr, dass die
+    Mustererkennung dazu führen kann, dass Individuen in vergangenen
+    Entscheidungen gefangen bleiben. Pariser weist darauf hin, dass die
+    Verwendung personalisierter Filter auf "Autopropaganda hindeutet, die
+    uns mit unseren eigenen Ideen indoktriniert und unser Verlangen nach
+    Dingen verstärkt, die uns vertraut sind", und dass "das Wissen, auf
+    welche Art von Anreizen bestimmte Menschen reagieren, Ihnen die Macht
+    gibt, sie auf individueller Basis zu manipulieren" (S. 121). Wie wir im
+    späteren Abschnitt über ethische Erwägungen darlegen, spiegeln die von
+    den Institutionen verwendeten Algorithmen unweigerlich die aktuellen
+    Klischees und Vorurteile wider und halten diese aufrecht. Die dynamische
+    Natur der studentischen Identität macht es erforderlich, dass wir
+    angemessen darauf achten, dass die Studierenden außerhalb der
+    auferlegten Algorithmen und Modelle handeln können.</p>
+<p>{Q{learninganalytics/gefahrmustererkennung|8800df54941835b85a7567d10f3b5527a1b8378aaa3ce2fbd70b3eb1d49860e0}Q}<br></p>
+<h4>Studentische Identität als flüchtiges Konstrukt</h4>
+<p>Obwohl
+    die Klassifizierung von Daten die Grundlage für die Festlegung des
+    Zugangs zu verschiedenen Datenkategorien sowie für die Bestimmung
+    angemessener institutioneller Reaktionen auf verschiedene Arten von
+    Kategorien durch eine Reihe von institutionellen Akteuren
+    (einschließlich der Studierenden selbst) bildet, ist es von
+    entscheidender Bedeutung, dass bei der Analyse von Daten im Rahmen von
+    Learning Analytics die Zeitgebundenheit der erfassten Daten und die
+    Tatsache berücksichtigt werden, dass die erfassten Daten uns nur einen
+    Blick auf eine Person zu einem bestimmten Zeitpunkt und an einem
+    bestimmten Ort ermöglichen. Obwohl die Kategorisierung von Daten
+    notwendig ist, ist die Kategorisierung von Studierenden und Lehrkräften
+    auf der Grundlage historischer Daten, zumindest derzeit, fehleranfällig
+    und unvollständig. Die Einrichtungen sollten auch die Pluralität der
+    studentischen Identität anerkennen. Sen (2006) schlägt vor, dass wir
+    Identitäten anerkennen sollten als "robust plural, und dass die
+    Bedeutung einer Identität die Bedeutung anderer nicht auslöschen muss"
+    (S. 19). Studierende treffen als Akteure Entscheidungen - "explizit oder
+    implizit - darüber, welche relative Bedeutung sie in einem bestimmten
+    Kontext den divergierenden Loyalitäten und Prioritäten beimessen, die um
+    den Vorrang konkurrieren können" (S. 19; siehe auch Brah, 1996).</p>
+<p>{Q{learninganalytics/kategorisierungstudierende|ef659f26f31038bc9c1c4f2527d9804831af807d35f6b1efb71539391a9d8c06}Q}<br></p>
+<h4>In Richtung eines ethischen Rahmens</h4>
+<p>Obwohl
+    die obige Literaturübersicht einen Überblick über eine Reihe von
+    ethischen Fragen im Bereich Learning Analytics gegeben hat, wenden wir
+    uns nun der Bereitstellung eines integrierten, gesellschaftskritischen
+    ethischen Rahmens und von Prinzipien für Learning Analytics sowie der
+    Diskussion einer Reihe von Überlegungen zu, die diesen Prinzipien
+    folgen.</p>
+<p>Die Übersicht hat uns mit der folgenden Frage
+    zurückgelassen: Wie können wir sowohl das Potenzial von Learning
+    Analytics für das Lernen als auch die damit verbundenen ethischen
+    Herausforderungen angehen? Ein Ansatz könnte die Formulierung von
+    institutionellen Verhaltenskodizes sein. Bienkowski et al. (2012)
+    zitieren beispielsweise Arbeiten zur Vorbereitung des U.S. Family
+    Educational Rights and Privacy Act, in dem der Zugang zu Datensätzen (z.
+    B. zu Forschungs-, Rechenschafts- oder institutionellen
+    Verbesserungszwecken) gegenüber der Notwendigkeit der Wahrung der
+    Privatsphäre der Studierenden abgegrenzt wird. In Australien haben
+    Nelson und Creagh (2012) mit der Arbeit an einem Good Practice Guide für
+    die Nutzung von Learning Analytics begonnen, in dem die Bedürfnisse der
+    wichtigsten Interessengruppen und die Auswirkungen einer Reihe von
+    vorgeschlagenen Rechten für jede von ihnen beschrieben werden. Die
+    Durchführbarkeit der Umsetzung solcher Verhaltenskodizes in großem
+    Maßstab und die Frage, wie diese die Nutzung aller Daten in einer
+    Online-Umgebung regeln könnten, in der die Daten und ihre Anwendungen
+    das Potenzial haben, sich zu vermehren und weiterzuentwickeln, sollte
+    daher eine Priorität in der Debatte über Learning Analytics und ihre
+    ethischen Implikationen sein. Land und Bayne (2005) schlagen vor, dass
+    institutionelle Verhaltenskodizes die Einwilligungserklärung, den Zweck
+    und das Ausmaß der Datenerfassung, die Transparenz der gespeicherten
+    Daten, das Eigentum und die Grenzen der Datennutzung abdecken sollten.</p>
+<p>{Q{learninganalytics/potenziallearninganalytics|5dd722b8fbbfd52a21ce2a0c38b4f883cbd64d46c2006c8e1c3e22bf2c1fde4d}Q}<br></p>
+<p>{Q{learninganalytics/abdeckungverhaltenskodizes|431a4da76034a0ff259ed0abf59573c3cc1df3c2578101ae5ed1b24d3a5e968f}Q}<br></p>
+<p>Petersen
+    (2012, S. 48) schlägt vor, die Grundsätze der Fair Information Practice
+    Principles der U.S. Federal Trade Commission zu befolgen, die folgende
+    Elemente umfassen: die Einverständniserklärung, die Ermöglichung
+    verschiedener Optionen in Bezug auf die Datennutzung, das Recht des
+    Einzelnen, die Richtigkeit und Vollständigkeit der Informationen zu
+    überprüfen, die Verhinderung des unbefugten Zugriffs, der Nutzung und
+    der Offenlegung von Daten sowie Bestimmungen zur Durchsetzung und
+    Entschädigung. Buchanan (2011) schlägt drei ethische Grundsätze vor,
+    nämlich "Achtung der Person, Wohlwollen und Gerechtigkeit" (S. 84).
+    Einzelpersonen sollten nicht nur als autonome Akteure betrachtet werden,
+    sondern schutzbedürftige Personen mit verminderter oder eingeschränkter
+    Autonomie (einschließlich Studierende) sollten vor Schaden und Risiken
+    geschützt werden. <br></p>
+<p>Obwohl viele der oben genannten Empfehlungen nützliche
+    Hinweise für Learning Analytics liefern, erfordert die Betrachtung von
+    Learning Analytics als moralische Praxis, deren primärer Beitrag die
+    Steigerung der Effektivität des Lernens ist, eine andere (aber nicht
+    widersprüchliche) Sammlung von Prinzipien.<br></p>
+<h3>Grundsätze für einen ethischen Rahmen für Learning Analytics</h3>
+<p>Unser Ansatz geht davon aus, dass der Einsatz von Learning Analytics in einer Institution auf dem Verständnis des Umfangs, der Rolle und der Grenzen von Learning Analytics sowie auf einer Reihe von moralischen Überzeugungen basiert, die auf den jeweiligen regulatorischen und rechtlichen, kulturellen, geopolitischen und sozioökonomischen Kontexten basieren. Jede Sammlung von Leitlinien, die sich mit den ethischen Dilemmata und Herausforderungen der Lernanalytik befasst, wird zwangsläufig auch auf einer Reihe von erkenntnistheoretischen Annahmen beruhen. Daher wäre es nahezu unmöglich, eine Reihe allgemeingültiger Leitlinien zu entwickeln, die in jedem Kontext gleichermaßen anwendbar wären. Es sollte jedoch möglich sein, eine Reihe allgemeiner Grundsätze zu entwickeln, aus denen die Institutionen je nach ihrem Kontext ihre eigenen Leitlinien entwickeln können. <br></p>
+<p>Wir schlagen hier eine Reihe von Grundsätzen als Orientierungsrahmen für die Betrachtung der Lernanalytik als moralische Praxis vor.</p>
+<h4>Grundsatz 1: Learning Analytics als moralische Praxis</h4>
+<p>Als Antwort auf die zunehmenden analytischen Möglichkeiten, mit denen die heutige Institution der Hochschulbildung konfrontiert ist, sollte Learning Analytics viel mehr tun, als zu einer "datengesteuerten Universität" beizutragen oder zu einer Welt zu führen, in der wir "unter dem Schwert der Daten leben". Wir stimmen mit Biesta (2007) überein, dass <br></p>
+<div style="margin-left: 30px;" class="editor-indent">
+    <p>evidenzbasierte Bildung ein technokratisches Modell zu begünstigen scheint, bei dem davon ausgegangen wird, dass die einzig relevanten Forschungsfragen die Effektivität von Bildungsmitteln und -techniken betreffen, wobei unter anderem vergessen wird, dass das, was als "effektiv" gilt, entscheidend von der Beurteilung dessen abhängt, was pädagogisch wünschenswert ist. (S. 5)</p>
+</div>
+<p> Bildung kann und sollte nicht als "Intervention oder Behandlung" verstanden werden, "weil die Bildungspraxis nicht kausal und normativ ist und weil Mittel und Ziele in der Bildung in einem inneren Zusammenhang stehen" (Biesta, 2007, S. 20). Die Lernanalyse sollte sich nicht nur darauf konzentrieren, was effektiv ist, sondern auch darauf abzielen, relevante Anhaltspunkte zu liefern, um zu entscheiden, was angemessen und moralisch notwendig ist. Bildung ist in erster Linie eine moralische Praxis, nicht eine kausale. Daher sollte die Lernanalyse in erster Linie als moralische Praxis fungieren, die zum Verständnis und nicht zum Messen führt (Reeves, 2011).</p>
+<h4>Grundsatz 2: Studierende als Agenten</h4>
+<p>Im Gegensatz zur Betrachtung der Studierenden als Datenproduzenten und -quellen sollten Lernanalytiker die Studierenden als Mitwirkende und nicht als bloße Empfänger von Interventionen und Dienstleistungen betrachten (Buchanan, 2011; Kruse &amp; Pongsajapan, 2012). Die Studierenden sollten nicht nur eine informierte Zustimmung zur Erhebung, Nutzung und Speicherung von Daten erteilen, sondern auch freiwillig an der Bereitstellung von Daten und dem Zugang zu Daten mitarbeiten, damit die Lernanalyse ihrem Lernen und ihrer Entwicklung dient und nicht nur der Effizienz institutioneller Profilerstellung und Interventionen (siehe auch Subotzky &amp; Prinsloo, 2011). Kruse und Pongsajapan (2012) schlagen einen "studierendenzentrierten" im Gegensatz zu einem "interventionszentrierten" Ansatz für Learning Analytics vor. Demnach sollte der Student <br></p>
+<div style="margin-left: 30px;" class="editor-indent">
+    <p>als Co-Interpret seiner eigenen Daten gesehen werden - und vielleicht sogar als Teilnehmer bei der Identifizierung und Erfassung dieser Daten. In diesem Szenario wird sich der Student seiner eigenen Handlungen im System bewusst und nutzt diese Daten, um über sein Verhalten nachzudenken und es möglicherweise zu ändern. (S. 4-5)</p>
+</div>
+<p>Die Wertschätzung der Studierenden als Akteure, die Entscheidungen treffen und mit der Institution bei der Konstruktion ihrer (wenn auch nur vorübergehenden) Identität zusammenarbeiten, kann darüber hinaus ein nützliches (und wirkungsvolles) Gegenmittel gegen die Kommerzialisierung der Hochschulbildung (siehe z. B. Giroux, 2003) im Zusammenhang mit den Auswirkungen von ungleichen Machtverhältnissen, Kontrolle und Überwachung sein (Albrechtslund, 2008; Knox, 2010a, 2010b).</p>
+<h4>Grundsatz 3: Studierendenidentität und Leistung sind zeitlich dynamische Konstrukte</h4>
+<p>Ein wesentlicher Bestandteil der Lernanalyse ist der Begriff der Studierendenidentität. Es ist von entscheidender Bedeutung, die Identität der Studierenden als eine Kombination aus dauerhaften und dynamischen Attributen zu betrachten. Während der Immatrikulation befinden sich die Identitäten der Studierenden in einem ständigen Wandel und damit in einem "dritten Raum", in dem sich ihre Identitäten und Kompetenzen in einem permanenten Übergangszustand befinden (Prinsloo, Slade, &amp; Galpin, 2012). Die ethischen Implikationen sind, dass die Lernanalyse eine Momentaufnahme eines Lernenden zu einem bestimmten Zeitpunkt und in einem bestimmten Kontext darstellt. Dies macht nicht nur Längsschnittdaten erforderlich (Reeves, 2011), sondern hat auch Auswirkungen auf die Speicherung und Dauerhaftigkeit der Daten. Mayer-Schönberger (2009, S. 12) warnt, dass das Vergessen eine "grundlegende menschliche Fähigkeit" ist. Studierende sollten die Möglichkeit haben, sich weiterzuentwickeln, sich anzupassen und aus vergangenen Erfahrungen zu lernen, ohne dass diese Erfahrungen aufgrund ihrer digitalen Natur zu einem dauerhaften Makel in ihrer Entwicklungsgeschichte werden. Studierendenprofile sollten nicht "eingeätzt werden wie eine Tätowierung in ... ihre digitale Haut" (Mayer-Schönberger, 2009, S. 14). Daten, die durch Learning Analytics gesammelt werden, sollten daher eine vereinbarte Lebensdauer und ein Verfallsdatum haben sowie Mechanismen, mit denen Studierende die Löschung von Daten nach vereinbarten Kriterien beantragen können.</p>
+<h4>Grundsatz 4: Lernerfolg ist ein komplexes und multidimensionales Phänomen</h4>
+<p>Obwohl einer der Vorteile von Learning Analytics darin besteht, zu einem besseren Verständnis der demografischen Merkmale und des Verhaltens der Studierenden beizutragen (Bichsel, 2012), ist es wichtig zu sehen, dass Studienerfolg das Ergebnis "meist nichtlinearer, multidimensionaler, voneinander abhängiger Interaktionen in verschiedenen Phasen im Verbund zwischen den Studierenden, der Institution und breiteren gesellschaftlichen Faktoren" ist (Prinsloo, 2012). Obwohl Learning Analytics enorme Möglichkeiten bieten, ein umfassenderes Verständnis des studentischen Lernens zu gewinnen, sind unsere Daten unvollständig (z. B. Booth, 2012; Mayer-Schönberger, 2009; Richardson, 2012a, 2012b) und "schmutzig" (Whitmer et al., 2012) und unsere Analysen anfällig für Fehlinterpretationen und Verzerrungen (Bienkowski et al., 2012; Campbell et al., 2007; May, 2011).</p>
+<h4>Grundsatz 5: Transparenz</h4>
+<p>Wichtig für Learning Analytics als moralische Praxis ist, dass die Hochschuleinrichtungen transparent machen, für welche Zwecke und unter welchen Bedingungen die Daten verwendet werden, wer Zugang zu den Daten hat und durch welche Maßnahmen die Identität des Einzelnen geschützt wird. Die Annahme, dass die Teilnahme an öffentlichen Online-Foren eine pauschale Erlaubnis für die Nutzung von Daten darstellt, sollte nicht akzeptiert werden (Buchanan, 2011). Hochschuleinrichtungen haben die Pflicht, die Teilnehmerdaten im institutionellen LMS zu schützen und die Studierenden über mögliche Risiken zu informieren, wenn Lehren und Lernen außerhalb der Grenzen der institutionellen Zuständigkeit stattfinden.<br></p>
+<h4>Grundsatz 6: Hochschulen können es sich nicht leisten, Daten nicht zu nutzen</h4>
+<p>Die vorangegangenen fünf Grundsätze bieten denjenigen Hochschuleinrichtungen, die Daten nutzen oder deren Nutzung planen, eine Orientierungshilfe. Der sechste Grundsatz macht deutlich, dass Hochschulen es sich nicht leisten können, keine Lernanalysen zu verwenden. Die Auslöser für die Einführung von Learning Analytics hängen von der Antwort der Hochschule auf die Frage nach ihrem Hauptzweck ab. Unabhängig davon, ob ihr Ziel darin besteht, Gewinne zu erwirtschaften oder die Ergebnisse für die Studierenden zu verbessern, sollten die Einrichtungen die verfügbaren Daten nutzen, um die Ergebnisse besser zu verstehen und sich dann mit ihnen auseinanderzusetzen bzw. sie zu verbessern (Bienkowski et al., 2012; Campbell et al., 2007). Informationen zu ignorieren, die aktiv dazu beitragen könnten, die Ziele einer Einrichtung zu verfolgen, scheint extrem kurzsichtig zu sein. Institutionen sind rechenschaftspflichtig, sei es gegenüber Aktionären, Regierungen oder den Studierenden selbst. Mit Learning Analytics können Hochschuleinrichtungen allen Beteiligten helfen, "den Nebel zu durchdringen, der sich über einen Großteil der Hochschulbildung gelegt hat" (Long &amp; Siemens, 2011, S. 40).</p>
+<h3>Überlegungen zu Learning Analytics als moralische Praxis</h3>
+<p>In Übereinstimmung mit dem Vorschlag von Ess et al. (2012) schlagen wir anstelle eines Verhaltenskodex eine Reihe von Erwägungen vor, um Flexibilität und eine Reihe von Kontexten zu ermöglichen, in denen sie möglicherweise angewendet werden müssen. Die folgenden Überlegungen sind so strukturiert, dass sie Fragen zu Nutzen, Zustimmung, Gefährdung und Schaden, Daten sowie Lenkung und Ressourcenverteilung behandeln.<br></p>
+<h4>Wer profitiert und unter welchen Bedingungen?</h4>
+<p>Die Antwort auf diese Frage bildet die Grundlage für die Betrachtung der ethischen Dimensionen von Learning Analytics. Aus der Literaturrecherche geht hervor, dass sowohl die Studierenden als auch die Hochschule davon profitieren sollten und dass der größte Nutzen entsteht, wenn Studierende und Hochschule als Akteure bei der Lernanalyse zusammenarbeiten. Studierende sind nicht einfach Empfänger von Dienstleistungen oder Kunden, die für eine Ausbildung bezahlen. Sie sind und sollten aktiv mitbestimmen, in welchem Umfang und zu welchem Zweck und unter welchen Bedingungen (z. B. De-Identifizierung) die von ihnen erhobenen Daten genutzt werden. Andererseits liegt es auf der Hand, dass die Hochschuleinrichtungen die Auswahl der erhobenen und analysierten Daten optimieren müssen, um immer effektivere und angemessenere Lern- und Unterstützungsangebote für die Studierenden bereitzustellen. Wir sind der festen Überzeugung, dass die Studierenden darüber informiert werden sollten, dass die Hochschulen nicht nur Daten sammeln, sondern auch sicherstellen müssen, dass eine De-Identifizierung der Daten die Personalisierung nicht behindert, um eine personalisierte und angemessene Lernerfahrung zu ermöglichen. Eine Einigung über die Notwendigkeit und den Zweck der Datenerhebung unter bestimmten Bedingungen schafft eine Vertrauensbasis zwischen der Hochschule und den Studierenden. Beide Vertragsparteien sind sich darüber im Klaren, dass die Richtigkeit und Vollständigkeit der Daten eine optimale Personalisierung, angemessenes Lernen und Unterstützung sowie Kosteneffizienz ermöglicht.<br></p>
+<h4>Bedingungen für die Einwilligung, De-Identifizierung und Opting-out</h4>
+<p>Obwohl die informierte Zustimmung in der Forschung eine gängige Praxis ist, gilt dies nicht für die Verwendung von Studierendendaten in anderen Bildungskontexten. In Anbetracht der Tatsache, dass sich der Umfang und die Art der verfügbaren Daten dramatisch verändert haben, sollten wir den Begriff der informierten Zustimmung im Bereich der Lernanalyse neu überdenken.</p>
+<p>Ist die Einwilligung nach Aufklärung eine unabdingbare Voraussetzung, oder gibt es Umstände, unter denen andere Grundsätze die Notwendigkeit einer Einwilligung nach Aufklärung überlagern? Es gibt viele Beispiele in verschiedenen Bereichen (z. B. Bioethik), in denen auf den Grundsatz der Einwilligung nach Aufklärung unter bestimmten Umständen verzichtet werden kann oder wenn die bestehenden Rechtsvorschriften ausreichen (z. B. Datenschutzvorschriften). Im Extremfall kann auf eine informierte Zustimmung verzichtet werden, wenn der Nutzen für die Allgemeinheit die Bedürfnisse des Einzelnen übersteigt. Im Zusammenhang mit der Lernanalytik könnte man meinen, dass es nur wenige oder gar keine Gründe gibt, die Studierenden nicht über die Verwendung ihrer Daten und die verwendeten Modelle (soweit sie zu diesem Zeitpunkt bekannt sind) zu informieren und ein System der informierten Zustimmung einzurichten. In Anbetracht der kontinuierlichen Fortschritte in der Technologie und unseres Verständnisses der effektiven Anwendungen von Learning Analytics muss diese Zustimmung möglicherweise regelmäßig erneuert werden. Wie Herring (2002) feststellt, deutet die sich im Laufe der Zeit ändernde Zusammensetzung der Studierendengruppen darauf hin, dass die Einholung einer informierten Zustimmung problematisch sein kann. Sie weist auf die Notwendigkeit hin, ein angemessenes Gleichgewicht zwischen der Durchführung qualitativ hochwertiger Forschung und dem Schutz der Nutzer vor potenziellem Schaden herzustellen. In der Praxis kann dies bedeuten, dass eine breite Definition des Spektrums möglicher Verwendungszwecke für die Daten der Studierenden gegeben wird, von denen einige für den Einzelnen weniger relevant sein können.</p>
+<p>Buchanan (2011) schlägt unter Bezugnahme auf die Arbeit von Lawson (2004) einen differenzierten Ansatz für die Einwilligung vor, der den Studierenden eine Reihe von Möglichkeiten bietet, die (teilweise) Identifizierung von Personen zu verweigern, wenn sie Teil einer veröffentlichten Studie sind. Vor diesem Hintergrund erscheint es sinnvoll, zwischen der Analyse und Verwendung anonymisierter Daten zu Berichtszwecken gegenüber Aufsichtsbehörden oder zu Finanzierungszwecken und anderen Arbeiten zu spezifischen Aspekten des studentischen Engagements zu unterscheiden. Im Zusammenhang mit Berichtszwecken unterstützen wir die Auffassung, dass der Nutzen für die Mehrheit das Recht des Einzelnen, seine Zustimmung zur Verwendung seiner Daten zu verweigern, überwiegt. Studierende können sich jedoch gegen institutionelle Initiativen zur Personalisierung des Lernens entscheiden - unter der Bedingung, dass sie über die Folgen ihrer Entscheidung informiert werden und sich dieser bewusst sind.</p>
+<p>Die Einrichtungen sollten auch garantieren, dass die Daten der Studierenden nach einer bestimmten Anzahl von Jahren dauerhaft anonymisiert werden, je nach den nationalen Gesetzen und Vorschriften.<br></p>
+<h4>Verletzlichkeit und Schaden</h4>
+<p><em>Definitionen.</em> Wie definieren wir Verletzlichkeit und Schaden und verhindern potenziellen Schaden, nicht nur für Studierende, sondern für alle Beteiligten? Bei der Betrachtung dieser Frage könnten wir über Aspekte wie implizite oder explizite Diskriminierung (bei der ein Student aufgrund eines nach außen hin als zufällig angesehenen persönlichen Merkmals Unterstützung erhält oder nicht), Etikettierung (bei der Studierende anhand einer Kombination von Merkmalen gebrandmarkt und - möglicherweise für die Dauer ihres Studiums - als irgendwie anders als andere behandelt werden) und die Gültigkeit der Behandlung von Gruppen von Studierenden auf der Grundlage von Annahmen über ihre gemeinsamen Merkmale nachdenken. Eine Möglichkeit, die potenzielle Rolle von Voreingenommenheit und Stereotypisierung anzugehen, besteht darin, eine Position der "Rawls'schen Blindheit" (Harvey, 2012, Abs. 12) einzunehmen, bei der die demografischen und früheren Bildungsdaten der Studierenden nicht von Anfang an zur Vorhersage ihrer Erfolgs- und Misserfolgschancen verwendet werden. Andererseits: Ist es ethisch vertretbar, den Vorhersagewert von Forschungsergebnissen in bestimmten Kontexten zu ignorieren?</p>
+<p>Wir schlagen vor, dass das Potenzial für Verzerrungen und Stereotypisierung in der prädiktiven Analyse bei institutionellen Versuchen, die Risikoprofile von Studierenden zu kategorisieren, in den Vordergrund gestellt werden sollte. Die Einrichtungen sollten diesen Studierenden zusätzliche Möglichkeiten bieten, entweder die anfänglichen Vorhersageanalysen als falsch oder unvollständig zu erweisen oder sich trotz anfänglicher institutioneller Zweifel an ihrem Potenzial zu rehabilitieren. Bei der Bestimmung dessen, was im Zusammenhang mit Learning Analytics eine Schwachstelle darstellen könnte, sollten die Einrichtungen darauf achten, dass die Analysen mit robusten und angemessen repräsentativen Datensätzen durchgeführt werden.</p>
+<p><em>Entschädigung für Studierende.</em> Wenn ein System der Transparenz und der informierten Zustimmung eingeführt wird, könnte man argumentieren, dass das Potenzial für Missbrauchsvorwürfe und Schäden minimiert wird. Es ist jedoch unwahrscheinlich, dass Ansätze in ihrer Betrachtung potenzieller (zukünftiger) Szenarien vollständig umfassend sein können, und es ist denkbar, dass Studierende argumentieren, dass sie benachteiligt wurden (vielleicht weil sie nicht die wahrgenommenen Vorteile erhalten, die andere Studierende haben). Bollier (2010) liefert ein Beispiel für eine Zukunft, in der Studierende mit geringem Risiko (und daher geringen Kosten) eine Vorzugsbehandlung (z. B. geringere Zulassungsvoraussetzungen) auf "Kosten" der vermeintlich risikoreichen Studierenden anstreben könnten. Zum jetzigen Zeitpunkt ist es schwierig, die längerfristigen Auswirkungen zu beurteilen, auch wenn die meisten Hochschuleinrichtungen über klare Beschwerde- und Berufungssysteme verfügen, die vielleicht überarbeitet werden sollten.</p>
+<p><em>Entschädigung für Einrichtungen. </em>Umgekehrt besteht bei transparenten Systemen und Ansätzen ein erhöhtes Potenzial für den Missbrauch des Systems durch Studierende. Welche Möglichkeiten haben die Hochschulen, wenn Studierende falsche oder unvollständige Angaben machen, die ihnen zusätzliche Unterstützung auf Kosten der Hochschule (und anderer Studierender) verschaffen könnten? Die Studienordnungen enthalten in der Regel Erklärungen, die es der Einrichtung ermöglichen, die Einschreibung zu beenden, wenn die Angaben unwahr oder irreführend sind, und es gibt auch andere, weniger drakonische Maßnahmen, die ergriffen werden könnten.<br></p>
+<h4>Datenerhebung, -analyse, -zugang und -speicherung</h4>
+<p><em>Erhebung von Daten. </em>Bei der Sammlung von Daten aus unterschiedlichen Quellen müssen die Einrichtungen darauf achten, dass sie "Fehler nicht verstärken", die sich aus den "unterschiedlichen Standards, Eigentümern und Zugriffsebenen" der verschiedenen Websites ergeben (Ferguson, 2012, S. 6). Es ist allgemein anerkannt, dass die Daten über das institutionelle LMS ein unvollständiges Bild der Lernprozesse der Lernenden vermitteln. Da die digitalen Netzwerke der Lernenden zunehmend auch Quellen außerhalb des LMS umfassen, können die Einrichtungen Daten von außerhalb des LMS (z. B. Twitter- und Facebook-Konten, unabhängig davon, ob es sich um studienbezogene oder private Konten handelt) nutzen, um ein umfassenderes Bild der Lernverläufe der Studierenden zu erhalten. Die Einbeziehung von Daten von Websites, die nicht in den Zuständigkeitsbereich einer Einrichtung fallen, wirft eine Reihe von Bedenken auf, da die Hochschulen keine Kontrolle über die Richtlinien der externen Websites haben und die Authentifizierung der Identität der Studierenden problematischer ist. Die Studierenden haben das Recht, über die Websites informiert zu werden, die zur Sammlung von Informationen verwendet werden, und ihre Zustimmung zum Umfang und zum Recht der Einrichtung, Daten aus solchen Quellen zu sammeln, zu analysieren und zu verwenden, zu geben. In den Registrierungsinformationen sollte ausdrücklich auf die breitere Verwendung von Studierendendaten hingewiesen werden.</p>
+<p><em>Auswertungen von Daten. </em>Die Einrichtungen sollten sich verpflichten, mit der gebotenen Sorgfalt vorzugehen, um Voreingenommenheit und Stereotypisierung zu vermeiden und dabei stets die unvollständige und dynamische Natur der individuellen Identität und Erfahrungen zu berücksichtigen. Algorithmen, die in der Lernanalytik eingesetzt werden, können von Natur aus die Voreingenommenheit und die Vorurteile in der kulturellen, geopolitischen, wirtschaftlichen und gesellschaftlichen Realität widerspiegeln und aufrechterhalten. Wie Subotzky und Prinsloo (2011, S. 182) feststellen, erklären unsere Vorhersagemodelle nur "einen Teil des breiten Spektrums an Verhaltensweisen, die das Universum der sozialen Interaktionen" zwischen Studierenden und Einrichtung ausmachen. Die Studierenden und die Einrichtung tragen daher eine gemeinsame Verantwortung, die "von gegenseitigem Engagement abhängt, das wiederum von handlungsfähigem gegenseitigem Wissen abhängt" (Subotzky &amp; Prinsloo, 2011, S. 183).<br>Es sollte darauf geachtet werden, dass die Kontexte der analysierten Daten sorgfältig berücksichtigt werden, bevor vorläufige Vorhersagen und Analysen gemacht werden. Daten, die in einem bestimmten Kontext erhoben wurden, sind möglicherweise nicht direkt auf einen anderen übertragbar. Vorhersagemodelle und Algorithmen sollten darauf achten, "Autopropaganda" (Pariser, 2011) zu verhindern und es den Studierenden zu ermöglichen, außerhalb der modellierten Profile und Handlungsvorschläge zu handeln.</p>
+<p><em>Zugang zu Daten.</em> In Übereinstimmung mit dem Vorschlag von Kruse und Pongsajapan (2012) für eine "studierendenzentrierte" Lernanalytik schlagen wir vor, dass Studierende ein Recht darauf haben, dass ihre Daten vor unbefugtem Zugriff geschützt werden und dass ihre informierte Zustimmung (wie oben erörtert) garantiert wird, wenn ihre Daten verwendet werden. In Anbetracht des ungleichen Machtverhältnisses zwischen Studierenden und Hochschule sollte die Hochschule Maßnahmen ergreifen, um den Zugang zu den Studierendendaten zu schützen und den Studierenden Rechtsmittel zur Verfügung zu stellen, falls Unbefugte Zugang zu ihren personenbezogenen Daten erhalten.</p>
+<p>In der Praxis haben aufgrund der Art des Regelungs-, Finanzierungs- und Akkreditierungsrahmens eine Vielzahl von Akteuren Zugang zu den Daten der Studierenden. In Fällen, in denen Arbeitgeber das Studium der Studierenden finanzieren, haben die Sponsoren möglicherweise Rechte an den Daten über die Fortschritte der Studierenden. Es wird vorgeschlagen, dass die Studierenden jederzeit Zugang zu ihren gespeicherten Daten haben und einen Überblick über die Akteure erhalten, die Zugriff auf bestimmte Datensätze haben. Die Einrichtungen sollten auch angemessene Maßnahmen ergreifen, um die Studierenden über den Umfang und die Art ihrer Datenspuren aufzuklären, wenn sie im Laufe ihres Studiums eine Reihe von sozialen Netzwerken nutzen. Obwohl die Institutionen nicht für das Niveau der digitalen Kompetenz der Studierenden verantwortlich gemacht werden können, gibt es möglicherweise gute Gründe, die digitale Kompetenz als integralen Bestandteil der Eigenschaften von Hochschulabsolventen zu fördern (Nawaz &amp; Kundi, 2010). Wenn Lehr- und Lernangebote soziale Netzwerke außerhalb des institutionellen LMS einbeziehen, sollten die Institutionen auch sicherstellen, dass die Lernenden ausdrücklich über den öffentlichen Charakter und den möglichen Missbrauch von Informationen, die auf diesen Seiten gepostet werden, informiert werden, und die Lehrkräfte sollten die Konsequenzen bedenken, bevor sie solche Seiten nutzen.</p>
+<p><em>Aufbewahrung und Speicherung von Daten. </em>Obwohl das Eigentumsverhältnis von Daten in der nicht internetbasierten Forschung recht eindeutig ist, ist das Eigentumsverhältnis von Daten aus dem Internet weniger klar, und das Fehlen internationaler Grenzen "verwirrt das Eigentumsverhältnis, da Datenbanken, Datensätze und Server grenzüberschreitend ihr Zuhause finden" (Buchanan, 2011, S. 98). Die Einrichtungen sollten Garantien und Richtlinien für die Aufbewahrung und Speicherung von Daten im Einklang mit nationalen und internationalen Vorschriften und Gesetzen bereitstellen. Die Studierenden sollten darüber informiert werden, dass ihre Daten verschlüsselt werden. Viele Länder haben einen rechtlichen Rahmen geschaffen, der sicherstellt, dass Einzelpersonen die Berichtigung oder dauerhafte Löschung aller über sie gespeicherten personenbezogenen Daten beantragen können, die möglicherweise ungenau, irreführend oder veraltet sind. Im südafrikanischen Kontext bietet beispielsweise das Gesetz zur Förderung des Zugangs zu Informationen (Promotion of Access to Information Act 2 of 2000) Einzelpersonen "ein gewisses Maß an direktem Einfluss auf die Verarbeitung ihrer persönlichen Daten" (KPMG, 2010). Petersen (2012) schlägt vor,&nbsp;</p>
+<div style="margin-left: 30px;" class="editor-indent">
+    <p>Eine der ersten Aufgaben einer Datenverwaltungsstelle besteht darin, eine Bestandsaufnahme der Datenquellen auf dem Campus vorzunehmen und ein Datenklassifizierungssystem zu erstellen, das die Daten in Kategorien einordnet, die das erforderliche Schutzniveau bestimmen. Dieser Prozess kann für eine private Hochschule anders aussehen als für eine öffentliche Einrichtung, da staatliche Gesetze oder Vorschriften vorschreiben können, dass bestimmte Informationen der Öffentlichkeit zugänglich sein müssen. Ein typisches Klassifizierungsschema für eine öffentliche Hochschule oder Universität könnte die Kategorien (1) öffentlich, (2) nicht-öffentlich und (3) sensibel oder geregelt umfassen. (S. 46)</p>
+</div>
+<h4>Verwaltung und Ressourcenzuweisung</h4>
+<p>Hochschuleinrichtungen sollten je nach den nationalen Rechts- und Verwaltungsvorschriften für eine wirksame Verwaltung und Kontrolle von Daten sorgen. Petersen (2012, S. 46) stellt fest: "Der wichtigste Schritt, den eine Hochschule unternehmen kann, ist die Schaffung einer umfassenden Struktur für die Datenverwaltung, die alle Arten von Daten berücksichtigt, die in verschiedenen Situationen verwendet werden." Dies impliziert nicht nur die strategische Konzeptualisierung von Learning Analytics, sondern auch eine angemessene Struktur- und Ressourcenzuweisung. Die Ressourcenzuweisung steht zwangsläufig im Zusammenhang mit Zweck und Nutzen. Bevor die Institution (oder der Fachbereich) mit der Anwendung eines Learning-Analytics-Ansatzes beginnt, sollte sie sich darüber im Klaren sein, was ihre wichtigsten Erfolgsfaktoren sind, welche Einschränkungen bestehen und welche Bedingungen erfüllt werden müssen.</p>
+<h3>Schlussfolgerungen</h3>
+<p>Trotz der beträchtlichen Unsicherheiten bedeutet das anhaltende Wachstum von Learning Analytics, dass wir nicht nur die enormen Möglichkeiten für eine bessere und effektivere Entscheidungsfindung in der Hochschulbildung berücksichtigen müssen (Oblinger, 2012), sondern auch die ethischen Herausforderungen bei der Institutionalisierung von Learning Analytics als Mittel zur Förderung und Gestaltung der Studierendenbetreuung erkunden müssen.</p>
+<p>Mit Blick auf die künftige Ausrichtung der Forschungsethik in vernetzten Umgebungen ("Forschungsethik 2.0") bemerkt Buchanan (2011): "Da soziale Netzwerke, Hyper-Blogging, Folksonomien, Wikis usw. die soziale Interaktion weiter verändern, muss sich auch die Forschung selbst und damit die Forschungsethik verändern." Forscher und Ethikkommissionen sollten "zusammenarbeiten, um die nächste Generation der Forschungsethik zu schmieden, eine Generation, die die Kernprinzipien beibehält und gleichzeitig neue Möglichkeiten für wichtige Forschungsbemühungen schafft" (S. 103).</p>
+<p>Die Lernanalyse ist in erster Linie eine moralische und pädagogische Praxis, die einem besseren und erfolgreicheren Lernen dient. Die inhärente Gefahr und das Versprechen des Zugangs zu und der Analyse von "Big Data" (Bollier, 2010) erfordern eine sorgfältige Betrachtung der ethischen Dimensionen und Herausforderungen von Learning Analytics. Die in diesem Artikel vorgeschlagenen Grundsätze und Überlegungen bieten einen ethischen Rahmen für Hochschuleinrichtungen, um kontextgerechte Lösungen und Strategien zur Steigerung der Qualität und Effektivität von Lehre und Lernen anzubieten.<br></p>
+<p></p>
